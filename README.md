@@ -3,10 +3,15 @@
 Este projeto contém o backend oficial **Nuvio Self-Host**, com um guia em
 português para manter conta, perfis, biblioteca e progresso no mesmo servidor.
 
-> **Importante:** os arquivos estão prontos para instalação, mas isso ainda não
-> coloca um servidor no ar. É necessário rodá-lo em uma máquina Linux com
-> Docker e configurar um domínio HTTPS. A tela “Servidor próprio” do Nuvio
-> apenas conecta o aplicativo a um servidor que já está funcionando.
+> **Para o caso destas duas TVs Roku, sem VPS e sem domínio:** use primeiro o
+> **[guia específico para Roku](docs/roku-sem-vps.md)**. O canal de Roku é um
+> fork beta não oficial e perfis criados no próprio Roku não são enviados à
+> conta Nuvio. Um servidor próprio não corrige essa limitação.
+>
+> **Importante:** os arquivos do self-host estão prontos para instalação, mas
+> isso ainda não coloca um servidor no ar. É necessário rodá-los em uma máquina
+> Linux com Docker e configurar um domínio HTTPS. A tela “Servidor próprio” do
+> Nuvio apenas conecta o aplicativo a um servidor que já está funcionando.
 
 ## Antes de migrar: tente corrigir o perfil que não aparece
 
@@ -104,7 +109,8 @@ O backend é baseado no projeto oficial
 Apache 2.0. A versão importada e as alterações locais estão registradas em
 [UPSTREAM.md](UPSTREAM.md).
 
-- [Guia em português para duas TVs](docs/guia-duas-tvs.md)
+- **[Roku sem VPS e sem domínio — comece aqui](docs/roku-sem-vps.md)**
+- [Guia em português para duas TVs com servidor próprio](docs/guia-duas-tvs.md)
 - [Documentação oficial de instalação](docs/self-hosting.md)
 - [Configuração dos aplicativos](docs/client-configuration.md)
 - [Segurança](SECURITY.md)

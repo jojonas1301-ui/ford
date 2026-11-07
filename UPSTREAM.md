@@ -8,7 +8,8 @@ Este projeto incorpora uma cópia do backend oficial Nuvio Self-Host:
 
 Os arquivos de execução do backend, Compose, migrações, scripts e testes foram
 mantidos como no commit de origem. O README principal foi substituído por uma
-orientação em português e foi acrescentado `docs/guia-duas-tvs.md`.
+orientação em português e foram acrescentados `docs/guia-duas-tvs.md` e
+`docs/roku-sem-vps.md`.
 
 O workflow interno do projeto original para publicar a imagem do dashboard a
 partir de um repositório privado não foi copiado. O backend continua usando a
