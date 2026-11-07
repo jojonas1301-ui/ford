@@ -1,0 +1,930 @@
+10-29 17:45:10.966 /D/okt_sdk: ========================================================================
+
+10-29 17:45:10.967 /D/okt_sdk: 删除旧日志文件: /storage/emulated/0/Android/data/com.ford.fordbrowser/files/okt_logs/2026-10-18.log true
+10-29 17:45:10.967 /I/okt_sdk: [BdUtils] @@ init
+10-29 17:45:10.970 /I/okt_sdk: [BdUtils] @@ readDbConfig
+10-29 17:45:10.970 /I/okt_sdk: [BdUtils] @@ getDbConfig, key = okt_debug_flag, state = false
+10-29 17:45:10.975 /D/okt_sdk: local list_host[https://sdkapi-ga.tworkkk.com, https://sdkapi-ga.biggogo.com, https://sdkapi-ga.smallyy.com]
+10-29 17:45:10.977 /D/okt_sdk: initSdk appID = 105
+10-29 17:45:10.977 /D/okt_sdk: CommonApi https://sdkapi-ga.biggogo.com
+10-29 17:45:10.978 /D/okt_sdk: ApiVersion 2_12_0
+10-29 17:45:10.978 /D/okt_sdk: DebugFlag false
+10-29 17:45:10.979 /I/okt_sdk: initAdShowCountData
+10-29 17:45:10.979 /D/okt_sdk: savedDay 356
+10-29 17:45:10.980 /D/okt_sdk: initAdShowCountData {插屏=[2584, 2584, 2584, 2584, 3912, 3912, 3912, 3912, 3484, 3562, 3562, 4020, 4020, 4064, 4064, 3651, 3773, 3773, 3773, 3773, 3655, 3974, 3777, 2890, 3466, 3466, 3466, 3542, 3542, 3542, 3704, 3704, 3704], 激励视频=[4320, 2589, 4233, 4233, 4233, 4233, 4233, 4233, 4239, 4224, 4224, 4222, 4220, 4220, 4220, 4220, 4220, 4220, 4220], banner=[3913, 3913, 3913, 3913, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 4121, 4121, 3868, 3868, 3868, 3705, 2891, 2891, 2891, 3467, 3467, 3467, 3467, 3467, 3467, 3543, 3543, 3543, 3543, 3543, 3543, 3543, 3543, 4073, 3778, 3778, 3778, 3778, 3778, 3778, 3813, 3652, 3652, 3652, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3975, 4021, 4021, 4021, 4021, 4021, 4021, 4021, 4065, 4065, 4065, 4065, 3967, 3485, 3485, 3684, 3684, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 4057], float=[3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3851, 3851, 3851, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3657, 3976, 3976, 3976, 3814, 3814, 3934, 3934, 4074, 4074, 4074, 3544, 3544, 3544, 3544, 3544, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 2892, 2892, 2892, 3706, 3706, 3869, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 4323, 4323, 4122, 3914, 3914, 3914, 3914, 3914, 3914, 3914, 4099, 4094, 4058, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3685, 3685, 3486, 3922, 3922, 3922, 3968, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4066]}
+10-29 17:45:10.980 /I/okt_sdk: initAdAreaCountData
+10-29 17:45:10.980 /D/okt_sdk: savedDay 356
+10-29 17:45:10.981 /D/okt_sdk: initAdAreaCountData {插屏=[2584, 3683, 3466, 3542, 3773, 3912, 2890], float=[2586, 2586, 3564, 3564]}
+10-29 17:45:10.985 /D/okt_sdk: reqInit
+10-29 17:45:10.987 /I/okt_sdk: ac, key=1, isExpired=true
+10-29 17:45:12.205 /D/okt_sdk: ========================================================================
+
+10-29 17:45:12.205 /I/okt_sdk: [BdUtils] @@ init
+10-29 17:45:12.206 /I/okt_sdk: [BdUtils] @@ getDbConfig, key = okt_debug_flag, state = false
+10-29 17:45:12.206 /D/okt_sdk: initSdk appID = 105
+10-29 17:45:12.206 /D/okt_sdk: CommonApi https://sdkapi-ga.biggogo.com
+10-29 17:45:12.206 /D/okt_sdk: ApiVersion 2_12_0
+10-29 17:45:12.206 /D/okt_sdk: DebugFlag true
+10-29 17:45:12.206 /I/okt_sdk: initAdShowCountData
+10-29 17:45:12.206 /D/okt_sdk: savedDay 356
+10-29 17:45:12.206 /D/okt_sdk: initAdShowCountData {插屏=[2584, 2584, 2584, 2584, 3912, 3912, 3912, 3912, 3484, 3562, 3562, 4020, 4020, 4064, 4064, 3651, 3773, 3773, 3773, 3773, 3655, 3974, 3777, 2890, 3466, 3466, 3466, 3542, 3542, 3542, 3704, 3704, 3704], 激励视频=[4320, 2589, 4233, 4233, 4233, 4233, 4233, 4233, 4239, 4224, 4224, 4222, 4220, 4220, 4220, 4220, 4220, 4220, 4220], banner=[3913, 3913, 3913, 3913, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 4121, 4121, 3868, 3868, 3868, 3705, 2891, 2891, 2891, 3467, 3467, 3467, 3467, 3467, 3467, 3543, 3543, 3543, 3543, 3543, 3543, 3543, 3543, 4073, 3778, 3778, 3778, 3778, 3778, 3778, 3813, 3652, 3652, 3652, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3975, 4021, 4021, 4021, 4021, 4021, 4021, 4021, 4065, 4065, 4065, 4065, 3967, 3485, 3485, 3684, 3684, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 4057], float=[3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3851, 3851, 3851, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3657, 3976, 3976, 3976, 3814, 3814, 3934, 3934, 4074, 4074, 4074, 3544, 3544, 3544, 3544, 3544, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 2892, 2892, 2892, 3706, 3706, 3869, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 4323, 4323, 4122, 3914, 3914, 3914, 3914, 3914, 3914, 3914, 4099, 4094, 4058, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3685, 3685, 3486, 3922, 3922, 3922, 3968, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4066]}
+10-29 17:45:12.206 /I/okt_sdk: initAdAreaCountData
+10-29 17:45:12.206 /D/okt_sdk: savedDay 356
+10-29 17:45:12.207 /D/okt_sdk: initAdAreaCountData {插屏=[2584, 3683, 3466, 3542, 3773, 3912, 2890], float=[2586, 2586, 3564, 3564]}
+10-29 17:45:12.207 /D/okt_sdk: reqInit
+10-29 17:45:12.207 /I/okt_sdk: ac, key=1, isExpired=true
+10-29 17:45:12.447 /D/okt_sdk: float 连接sdk获取数据
+10-29 17:45:12.447 /D/okt_sdk: SDK 未初始化成功！！！ 
+10-29 17:45:12.447 /D/okt_sdk: float sdk获取数据失败
+10-29 17:45:12.451 /I/okt_sdk: [AdCacheRefreshUtils] @@ read preset config file from local
+10-29 17:45:12.452 /I/okt_sdk: [AdCacheRefreshUtils] @@ parseApiData
+10-29 17:45:12.452 /E/okt_sdk: Value [[{"adID":"1053","platform":"topon","sourceID":"33843","thirdAppID":"h69f1c080de116","thirdPosID":"n69f1c0be439e2","thirdAppKey":"ed8ea7466856e316f585b4a6658c2e34","thirdUnitID":"","gWidth":"352","gHeight":"155","webPrice":"2.000000","autoFlush":"1"}]] at 0 of type org.json.JSONArray cannot be converted to JSONObject
+org.json.JSONException: Value [[{"adID":"1053","platform":"topon","sourceID":"33843","thirdAppID":"h69f1c080de116","thirdPosID":"n69f1c0be439e2","thirdAppKey":"ed8ea7466856e316f585b4a6658c2e34","thirdUnitID":"","gWidth":"352","gHeight":"155","webPrice":"2.000000","autoFlush":"1"}]] at 0 of type org.json.JSONArray cannot be converted to JSONObject
+	at org.json.JSON.typeMismatch(JSON.java:101)
+	at org.json.JSONArray.getJSONObject(JSONArray.java:527)
+	at a.a.l(SourceFile:82)
+	at com.yk.e.MainSDK.initAdCache(SourceFile:45)
+	at com.wangxiong.sdk.WxSDK.initAdCache(WxSDK.java:5)
+	at com.ford.fordbrowser.qr.RgtTriggerContentTask.K(RgtTriggerContentTask.java:1)
+	at com.ford.fordbrowser.qr.RgtTriggerContentTask.enterDouble(RgtTriggerContentTask.java:235)
+	at com.ford.fordbrowser.c.RGFloatSession.onCreate(RGFloatSession.java:61)
+	at com.ford.fordbrowser.qr.RgtTriggerContentTask.onCreate(RgtTriggerContentTask.java:4)
+	at android.app.Activity.performCreate(Activity.java:9224)
+	at android.app.Activity.performCreate(Activity.java:9173)
+	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1538)
+	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:4400)
+	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:4639)
+	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:112)
+	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:186)
+	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:112)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:84)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2875)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loopOnce(Looper.java:249)
+	at android.os.Looper.loop(Looper.java:337)
+	at android.app.ActivityThread.main(ActivityThread.java:9608)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:615)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:936)
+
+10-29 17:45:12.454 /I/okt_sdk: ac head, key=14
+10-29 17:45:12.454 /I/okt_sdk: [AdCacheRefreshUtils] @@ getAdApiCacheInfo4Preload from sp
+10-29 17:45:12.454 /I/okt_sdk: [AdCacheRefreshUtils] @@ refreshAdCache, adType = 激励, adPlcID = 1382
+10-29 17:45:12.454 /D/okt_sdk: 激励视频 连接sdk获取数据
+10-29 17:45:12.454 /D/okt_sdk: 激励视频 连接服务器耗时 = 0ms
+10-29 17:45:12.455 /I/okt_sdk: [BaseSliceLoader] @@ bid, isUseClientBid = true, realBidTime = 1
+10-29 17:45:12.455 /I/okt_sdk: [BaseSliceLoader] @@ setBidCountDown, time = 1
+10-29 17:45:12.455 /I/okt_sdk: [BaseSliceLoader] @@ createAdLoader4Backstop, size = 0
+10-29 17:45:12.455 /I/okt_sdk: [AdCacheRefreshUtils] @@ preloadRewardAd
+10-29 17:45:12.456 /I/okt_sdk: ac head, key=16
+10-29 17:45:12.457 /I/okt_sdk: ac head, key=16
+10-29 17:45:12.457 /I/okt_sdk: [AdCacheRefreshUtils] @@ getAdApiCacheInfo4Preload from local
+10-29 17:45:12.457 /I/okt_sdk: [AdCacheRefreshUtils] @@ preloadAd fail, ad data is empty!
+10-29 17:45:12.457 /I/okt_sdk: [AdCacheRefreshUtils] @@ preloadInterstitialAd
+10-29 17:45:12.460 /I/okt_sdk: [AdCacheRefreshUtils] @@ read preset config file from local
+10-29 17:45:12.460 /I/okt_sdk: [AdCacheRefreshUtils] @@ parseApiData
+10-29 17:45:12.461 /E/okt_sdk: Value [[{"adID":"1053","platform":"topon","sourceID":"33843","thirdAppID":"h69f1c080de116","thirdPosID":"n69f1c0be439e2","thirdAppKey":"ed8ea7466856e316f585b4a6658c2e34","thirdUnitID":"","gWidth":"352","gHeight":"155","webPrice":"2.000000","autoFlush":"1"}]] at 0 of type org.json.JSONArray cannot be converted to JSONObject
+org.json.JSONException: Value [[{"adID":"1053","platform":"topon","sourceID":"33843","thirdAppID":"h69f1c080de116","thirdPosID":"n69f1c0be439e2","thirdAppKey":"ed8ea7466856e316f585b4a6658c2e34","thirdUnitID":"","gWidth":"352","gHeight":"155","webPrice":"2.000000","autoFlush":"1"}]] at 0 of type org.json.JSONArray cannot be converted to JSONObject
+	at org.json.JSON.typeMismatch(JSON.java:101)
+	at org.json.JSONArray.getJSONObject(JSONArray.java:527)
+	at a.a.l(SourceFile:82)
+	at com.yk.e.MainSDK.initAdCache(SourceFile:45)
+	at com.ford.fordbrowser.qr.RgtTriggerContentTask.onCreate(RgtTriggerContentTask.java:49)
+	at android.app.Activity.performCreate(Activity.java:9224)
+	at android.app.Activity.performCreate(Activity.java:9173)
+	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1538)
+	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:4400)
+	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:4639)
+	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:112)
+	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:186)
+	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:112)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:84)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2875)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loopOnce(Looper.java:249)
+	at android.os.Looper.loop(Looper.java:337)
+	at android.app.ActivityThread.main(ActivityThread.java:9608)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:615)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:936)
+
+10-29 17:45:12.461 /I/okt_sdk: [AdCacheRefreshUtils] @@ read preset config file from local
+10-29 17:45:12.461 /I/okt_sdk: [AdCacheRefreshUtils] @@ parseApiData
+10-29 17:45:12.461 /E/okt_sdk: Value [[{"adID":"1053","platform":"topon","sourceID":"33843","thirdAppID":"h69f1c080de116","thirdPosID":"n69f1c0be439e2","thirdAppKey":"ed8ea7466856e316f585b4a6658c2e34","thirdUnitID":"","gWidth":"352","gHeight":"155","webPrice":"2.000000","autoFlush":"1"}]] at 0 of type org.json.JSONArray cannot be converted to JSONObject
+org.json.JSONException: Value [[{"adID":"1053","platform":"topon","sourceID":"33843","thirdAppID":"h69f1c080de116","thirdPosID":"n69f1c0be439e2","thirdAppKey":"ed8ea7466856e316f585b4a6658c2e34","thirdUnitID":"","gWidth":"352","gHeight":"155","webPrice":"2.000000","autoFlush":"1"}]] at 0 of type org.json.JSONArray cannot be converted to JSONObject
+	at org.json.JSON.typeMismatch(JSON.java:101)
+	at org.json.JSONArray.getJSONObject(JSONArray.java:527)
+	at a.a.l(SourceFile:82)
+	at com.yk.e.MainSDK.initAdCache(SourceFile:45)
+	at com.wangxiong.sdk.WxSDK.initAdCache(WxSDK.java:5)
+	at com.ford.fordbrowser.qr.RgtTriggerContentTask.onCreate(RgtTriggerContentTask.java:52)
+	at android.app.Activity.performCreate(Activity.java:9224)
+	at android.app.Activity.performCreate(Activity.java:9173)
+	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1538)
+	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:4400)
+	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:4639)
+	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:112)
+	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:186)
+	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:112)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:84)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2875)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loopOnce(Looper.java:249)
+	at android.os.Looper.loop(Looper.java:337)
+	at android.app.ActivityThread.main(ActivityThread.java:9608)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:615)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:936)
+
+10-29 17:45:12.780 /D/okt_sdk: 激励视频 platform = topon , 开始加载广告
+10-29 17:45:12.781 /D/okt_sdk: BaseMainAd @@ checkClickUrl 备用地址为空 不进行检测！
+10-29 17:45:12.781 /D/okt_sdk: BaseMainAd @@ onCheckUrlFinish
+10-29 17:45:12.781 /I/okt_sdk: [BaseMainAd] @@ setRevenue 激励视频, platform = topon, revenue = 2.0
+10-29 17:45:12.783 /I/okt_sdk: initTopOn: start
+10-29 17:45:12.811 /I/okt_sdk: TopOn initialized
+10-29 17:45:12.838 /I/okt_sdk: topOn deviceInfo: {"GAID":"00000000-0000-0000-0000-000000000000","How to config TestMode":"Please visit the document center and learn more through: Integration(Basic) -> How To Test"}
+10-29 17:45:12.954 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/ReqInit
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306711010,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","phoneInfo":{"phoneSDKVersion":35,"isSimulator":0,"sdkVersion":"2.17.0.1","androidId":"ffffffff-916e-ecf3-ffff-ffffc1ec9f58","system":1,"phoneModel":"23122PCD1G","brand":"POCO","sw":1220,"sh":2712,"systemVersion":"15","deviceType":1,"ua":"Dalvik\/2.1.0 (Linux; U; Android 15; 23122PCD1G Build\/AQ3A.240912.001)","manufacturer":"Xiaomi","netType":"WIFI","carrier":"","orientation":1},"sign":"a12a3b39751866c620edba09c1ec4fa3"}
+responseCode = 200
+result = {"status":1001,"info":"","data":{"domain_list":["https:\/\/sdkapi-ga.biggogo.com","https:\/\/sdkapi-ga.smallyy.com","https:\/\/sdkapi-ga.tworkkk.com"],"cache_time":300,"writeLog":"0","cmp":"0","mixTool":"3"},"timestamp":1793306712}
+costTime = 1564ms
+10-29 17:45:12.990 /D/okt_sdk: 插屏 连接sdk获取数据
+10-29 17:45:12.990 /D/okt_sdk: SDK 未初始化成功！！！ 
+10-29 17:45:12.990 /D/okt_sdk: 插屏 sdk获取数据失败, msg = SDK 未初始化成功！！！ 
+10-29 17:45:12.990 /D/okt_sdk: 插屏 连接服务器耗时：1ms
+10-29 17:45:12.990 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:12.991 /D/okt_sdk: l1 @@ 添加新的域名：["https:\/\/sdkapi-ga.biggogo.com","https:\/\/sdkapi-ga.smallyy.com","https:\/\/sdkapi-ga.tworkkk.com"]
+10-29 17:45:12.991 /D/okt_sdk: new list_host [https://sdkapi-ga.tworkkk.com, https://sdkapi-ga.biggogo.com, https://sdkapi-ga.smallyy.com]
+10-29 17:45:12.991 /D/okt_sdk: api init success
+10-29 17:45:12.991 /I/okt_sdk: [BdUtils] @@ getDbConfig, key = okt_debug_tool, state = false
+10-29 17:45:12.991 /I/okt_sdk: [SdkDebugTool] @@ isDebug = false
+10-29 17:45:12.991 /I/okt_sdk: ac, put 1
+10-29 17:45:13.371 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306712780,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1382","adType":3,"adID":"994","sourceID":"33848","platform":"topon","type":9,"requestID":"6ec6c1f3-95ce-4e27-913e-0c61bb087a88","materialId":"","network":"","isBrush":1,"fillCostTime":0,"apiCostTime":0,"sign":"9c00d1af8dc504484d9a67c67e13e63f"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306713}
+costTime = 589ms
+10-29 17:45:13.422 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:13.752 /D/okt_sdk: Banner 连接sdk获取数据
+10-29 17:45:13.755 /I/okt_sdk: ac, key=1384, isExpired=true
+10-29 17:45:13.755 /D/okt_sdk: savedDay 356
+10-29 17:45:13.755 /D/okt_sdk: savedDay 356
+10-29 17:45:13.928 /I/okt_sdk: [BaseSliceLoader] @@ bid time out from refresh
+10-29 17:45:15.125 /D/okt_sdk: 信息流 连接sdk获取数据
+10-29 17:45:15.132 /I/okt_sdk: ac, key=1389, isExpired=true
+10-29 17:45:15.133 /D/okt_sdk: savedDay 356
+10-29 17:45:15.133 /D/okt_sdk: savedDay 356
+10-29 17:45:15.810 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/ReqNaturalAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306715132,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1389","sw":1220,"sh":2712,"orientation":1,"historyMid":"[]","show_limit":"[]","adAreaType":"[]","sign":"caa41678955ef8b267bab34bb21ff788"}
+responseCode = 200
+result = {"status":1001,"info":"","data":{"loadNumber":"1","biddingTime":"10","waterfall":"1","adList":[{"adID":"1053","platform":"topon","sourceID":"33841","thirdAppID":"h69f1c080de116","thirdPosID":"n69f1c0be439e2","thirdUnitID":"","isCustom":"0","thirdAppKey":"ed8ea7466856e316f585b4a6658c2e34","gWidth":"352","gHeight":"155","webPrice":"2.00000000"},{"sourceID":"22627","adID":"3072","logoUrl":"","name":"yu777  ","summary":"rico da noite para o dia","package":"","type":"2","imgUrl":"https:\/\/cdn-america6.ibkckks.com\/material\/49902\/1\/49902_1_1763556236.jpeg","videoUrl":"","videoWidth":0,"videoHeight":0,"clickUrl":"https:\/\/v7k2mx.com?ch=67281","webUrl":"https:\/\/v7k2mx.com?ch=67281","countDownTime":0,"platform":"wx","title":"rico da noite para o dia","adAreaType":"1","materialId":46745,"forceClick":0,"fcDelayTime":0,"webPrice":"0.00000000"}],"bottomAdList":[]},"timestamp":1793306716}
+costTime = 675ms
+10-29 17:45:15.810 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:15.810 /D/okt_sdk: FloorSize = 2, SliceSize = 1
+10-29 17:45:15.810 /D/okt_sdk: 信息流 连接服务器耗时：685ms
+10-29 17:45:15.810 /D/okt_sdk: 开始加载广告
+10-29 17:45:15.810 /D/okt_sdk: 信息流 连接sdk获取数据
+10-29 17:45:15.811 /D/okt_sdk: 信息流 连接服务器耗时 = 0ms
+10-29 17:45:15.811 /I/okt_sdk: [BaseSliceLoader] @@ bid, isUseClientBid = true, realBidTime = 10
+10-29 17:45:15.811 /I/okt_sdk: [BaseSliceLoader] @@ setBidCountDown, time = 10
+10-29 17:45:15.811 /I/okt_sdk: [BaseSliceLoader] @@ createAdLoader4Backstop, size = 0
+10-29 17:45:15.811 /I/okt_sdk: ac, put 1389
+10-29 17:45:15.811 /D/okt_sdk: 信息流 platform = topon , 开始加载广告
+10-29 17:45:15.814 /D/okt_sdk: BaseMainAd @@ checkClickUrl 备用地址为空 不进行检测！
+10-29 17:45:15.814 /D/okt_sdk: BaseMainAd @@ onCheckUrlFinish
+10-29 17:45:15.814 /I/okt_sdk: [BaseMainAd] @@ setRevenue 信息流, platform = topon, revenue = 2.0
+10-29 17:45:15.814 /I/okt_sdk: initTopOn: start
+10-29 17:45:15.815 /I/okt_sdk: TopOn has init success
+10-29 17:45:16.104 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/ReqInit
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306712208,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","phoneInfo":{"phoneSDKVersion":35,"isSimulator":0,"sdkVersion":"2.17.0.1","androidId":"ffffffff-916e-ecf3-ffff-ffffc1ec9f58","system":1,"phoneModel":"23122PCD1G","brand":"POCO","sw":1220,"sh":2712,"systemVersion":"15","deviceType":1,"ua":"Dalvik\/2.1.0 (Linux; U; Android 15; 23122PCD1G Build\/AQ3A.240912.001)","manufacturer":"Xiaomi","netType":"WIFI","carrier":"","orientation":1},"sign":"147311f011914ea06997f3e1096e19a9"}
+responseCode = 200
+result = {"status":1001,"info":"","data":{"domain_list":["https:\/\/sdkapi-ga.biggogo.com","https:\/\/sdkapi-ga.smallyy.com","https:\/\/sdkapi-ga.tworkkk.com"],"cache_time":300,"writeLog":"0","cmp":"0","mixTool":"3"},"timestamp":1793306713}
+costTime = 3891ms
+10-29 17:45:16.105 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:16.106 /D/okt_sdk: l1 @@ 添加新的域名：["https:\/\/sdkapi-ga.biggogo.com","https:\/\/sdkapi-ga.smallyy.com","https:\/\/sdkapi-ga.tworkkk.com"]
+10-29 17:45:16.107 /D/okt_sdk: new list_host [https://sdkapi-ga.tworkkk.com, https://sdkapi-ga.biggogo.com, https://sdkapi-ga.smallyy.com]
+10-29 17:45:16.107 /D/okt_sdk: api init success
+10-29 17:45:16.108 /I/okt_sdk: [BdUtils] @@ getDbConfig, key = okt_debug_tool, state = false
+10-29 17:45:16.108 /I/okt_sdk: [SdkDebugTool] @@ isDebug = false
+10-29 17:45:16.108 /I/okt_sdk: ac, put 1
+10-29 17:45:16.368 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/ReqBannerAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306713755,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1384","sw":1220,"sh":2712,"orientation":1,"historyMid":"[]","show_limit":"[{\"adid\":\"4073\",\"count\":1},{\"adid\":\"4021\",\"count\":7},{\"adid\":\"4065\",\"count\":4},{\"adid\":\"4121\",\"count\":2},{\"adid\":\"4057\",\"count\":1},{\"adid\":\"3684\",\"count\":2},{\"adid\":\"3563\",\"count\":11},{\"adid\":\"2891\",\"count\":3},{\"adid\":\"3485\",\"count\":2},{\"adid\":\"3913\",\"count\":4},{\"adid\":\"3705\",\"count\":1},{\"adid\":\"3467\",\"count\":6},{\"adid\":\"3543\",\"count\":8},{\"adid\":\"2585\",\"count\":14},{\"adid\":\"3652\",\"count\":3},{\"adid\":\"3774\",\"count\":16},{\"adid\":\"3975\",\"count\":1},{\"adid\":\"3778\",\"count\":6},{\"adid\":\"3868\",\"count\":3},{\"adid\":\"3813\",\"count\":1},{\"adid\":\"3967\",\"count\":1}]","adAreaType":"[]","sign":"be93dac844d7cfb3e869a2677d6bab59"}
+responseCode = 200
+result = {"status":1001,"info":"","data":{"loadNumber":"1","biddingTime":"10","waterfall":"1","adList":[{"adID":"996","platform":"topon","sourceID":"33846","thirdAppID":"h69f1c080de116","thirdAppKey":"ed8ea7466856e316f585b4a6658c2e34","thirdPosID":"n69f1c0be439e2","thirdUnitID":"","adSize":"","gWidth":"1000","gHeight":"570","webPrice":"2.00000000"}],"bottomAdList":[]},"timestamp":1793306715}
+costTime = 2611ms
+10-29 17:45:16.369 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:16.369 /D/okt_sdk: FloorSize = 1, SliceSize = 1
+10-29 17:45:16.370 /D/okt_sdk: Banner 连接服务器耗时：2618ms
+10-29 17:45:16.370 /D/okt_sdk: 开始加载广告
+10-29 17:45:16.370 /D/okt_sdk: banner 连接sdk获取数据
+10-29 17:45:16.371 /D/okt_sdk: banner 连接服务器耗时 = 0ms
+10-29 17:45:16.372 /I/okt_sdk: [BaseSliceLoader] @@ bid, isUseClientBid = true, realBidTime = 10
+10-29 17:45:16.372 /I/okt_sdk: [BaseSliceLoader] @@ setBidCountDown, time = 10
+10-29 17:45:16.372 /I/okt_sdk: [BaseSliceLoader] @@ createAdLoader4Backstop, size = 0
+10-29 17:45:16.372 /I/okt_sdk: ac, put 1384
+10-29 17:45:16.374 /D/okt_sdk: banner platform = topon , 开始加载广告
+10-29 17:45:16.375 /D/okt_sdk: BaseMainAd @@ checkClickUrl 备用地址为空 不进行检测！
+10-29 17:45:16.376 /D/okt_sdk: BaseMainAd @@ onCheckUrlFinish
+10-29 17:45:16.376 /I/okt_sdk: [BaseMainAd] @@ setRevenue banner, platform = topon, revenue = 2.0
+10-29 17:45:16.376 /I/okt_sdk: initTopOn: start
+10-29 17:45:16.376 /I/okt_sdk: TopOn has init success
+10-29 17:45:19.261 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306715811,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1389","adType":4,"adID":"1053","sourceID":"33841","platform":"topon","type":9,"requestID":"6638b99b-6ff9-407d-9624-ea7158a9c555","materialId":"","network":"","isBrush":0,"fillCostTime":0,"apiCostTime":685,"sign":"1239d4b9307603c1a52dff83beebf615"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306716}
+costTime = 3444ms
+10-29 17:45:19.265 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:21.384 /E/okt_sdk: [NetRequest] @@ postData error, url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd, msg = timeout
+10-29 17:45:21.596 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306716374,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1384","adType":7,"adID":"996","sourceID":"33846","platform":"topon","type":9,"requestID":"e9eb84eb-0e7a-4732-81ea-ad0555040682","materialId":"","network":"","isBrush":0,"fillCostTime":0,"apiCostTime":2618,"sign":"8f395b51c9cd2616a768d176d9b7bb09"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306722}
+costTime = 213ms
+10-29 17:45:21.596 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:23.124 /D/okt_sdk: m @@ expressWidth 1157
+10-29 17:45:23.124 /D/okt_sdk: m @@ expressHeight 509
+10-29 17:45:23.124 /D/okt_sdk: setAdCostTime
+10-29 17:45:23.125 /D/okt_sdk: 信息流 platform = topon, 成功：加载sdk内容耗时 = 7313ms
+10-29 17:45:23.125 /D/okt_sdk: 信息流 platform = topon , onAdLoaded
+10-29 17:45:23.125 /D/okt_sdk: 信息流 加载广告耗时 = 7315ms
+10-29 17:45:23.137 /D/okt_sdk: LifeListenerFragment onStart
+10-29 17:45:23.137 /D/okt_sdk: LifeListenerFragment onResume
+10-29 17:45:23.137 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:23.137 /I/okt_sdk: [BaseAdCache] @@ 缓存排序, adType=信息流, adPlcID=native, index=0, revenue=2.0, platform=topon 207160953
+10-29 17:45:23.137 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:23.137 /I/okt_sdk: [BaseAdCache] @@ 有效缓存, adType=信息流, adPlcID=native, index=0, revenue=2.0, platform=topon 207160953
+10-29 17:45:23.137 /I/okt_sdk: [BaseSliceLoader] @@ is read cache list, state = true
+10-29 17:45:23.138 /I/okt_sdk: [BaseSliceLoader] @@ destroy backstopCacheData
+10-29 17:45:23.138 /D/okt_sdk: AdLoaderIndex = forAdCache
+10-29 17:45:23.138 /D/okt_sdk: 信息流 platform = topon , 加载sdk内容耗时：7328ms
+10-29 17:45:23.138 /D/okt_sdk: 信息流 platform = topon , onAdLoaded
+10-29 17:45:23.138 /I/okt_sdk: [BaseAdCache] @@ 移除胜出的广告缓存，platform = topon, type = 信息流, revenue = 2.0
+10-29 17:45:23.138 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:23.138 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:23.138 /I/okt_sdk: [BaseSliceLoader] @@ loadNextAd, adPlcID = 1389
+10-29 17:45:23.138 /I/okt_sdk: ac, key=1389, isExpired=false
+10-29 17:45:23.138 /I/okt_sdk: [AdCacheRefreshUtils] @@ loadNextAd, adType = 信息流, adPlcID = 1389
+10-29 17:45:23.138 /D/okt_sdk: 信息流 连接sdk获取数据
+10-29 17:45:23.139 /D/okt_sdk: 信息流 连接服务器耗时 = 0ms
+10-29 17:45:23.139 /I/okt_sdk: [BaseSliceLoader] @@ bid, isUseClientBid = true, realBidTime = 1
+10-29 17:45:23.139 /I/okt_sdk: [BaseSliceLoader] @@ setBidCountDown, time = 1
+10-29 17:45:23.139 /I/okt_sdk: [BaseSliceLoader] @@ createAdLoader4Backstop, size = 0
+10-29 17:45:23.152 /I/okt_sdk: [BaseSliceLoader] @@ bid finish, type = 信息流, win platform = topon, revenue = 2.0
+10-29 17:45:23.155 /D/okt_sdk: 信息流 platform = topon , 开始加载广告
+10-29 17:45:23.155 /D/okt_sdk: BaseMainAd @@ checkClickUrl 备用地址为空 不进行检测！
+10-29 17:45:23.155 /D/okt_sdk: BaseMainAd @@ onCheckUrlFinish
+10-29 17:45:23.155 /I/okt_sdk: [BaseMainAd] @@ setRevenue 信息流, platform = topon, revenue = 2.0
+10-29 17:45:23.155 /I/okt_sdk: initTopOn: start
+10-29 17:45:23.155 /I/okt_sdk: TopOn has init success
+10-29 17:45:23.953 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306723154,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1389","adType":4,"adID":"1053","sourceID":"33841","platform":"topon","type":9,"requestID":"ac3baf3d-840d-49cd-b063-2d6463bc8ec9","materialId":"","network":"","isBrush":1,"fillCostTime":0,"apiCostTime":0,"sign":"c42611c624479e0d61ace4c96abb18b5"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306724}
+costTime = 797ms
+10-29 17:45:23.957 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:24.054 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306723124,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1389","adType":4,"adID":"1053","sourceID":"33841","platform":"topon","type":8,"requestID":"6638b99b-6ff9-407d-9624-ea7158a9c555","materialId":"","network":"","isBrush":0,"fillCostTime":7313,"apiCostTime":685,"sign":"6cae131d88a696c4ce2d877525658cd5"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306724}
+costTime = 929ms
+10-29 17:45:24.055 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:24.188 /I/okt_sdk: [BaseSliceLoader] @@ bid time out from refresh
+10-29 17:45:26.127 /D/okt_sdk: m @@ expressWidth 1220
+10-29 17:45:26.127 /D/okt_sdk: m @@ expressHeight 695
+10-29 17:45:26.127 /D/okt_sdk: setAdCostTime
+10-29 17:45:26.127 /D/okt_sdk: banner platform = topon, 成功：加载sdk内容耗时 = 9753ms
+10-29 17:45:26.127 /D/okt_sdk: banner platform = topon , onAdLoaded
+10-29 17:45:26.127 /D/okt_sdk: banner 加载广告耗时 = 9757ms
+10-29 17:45:26.131 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:26.132 /I/okt_sdk: [BaseAdCache] @@ 缓存排序, adType=banner, adPlcID=banner, index=0, revenue=2.0, platform=topon 224030199
+10-29 17:45:26.134 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:26.135 /I/okt_sdk: [BaseAdCache] @@ 有效缓存, adType=banner, adPlcID=banner, index=0, revenue=2.0, platform=topon 224030199
+10-29 17:45:26.135 /I/okt_sdk: [BaseSliceLoader] @@ is read cache list, state = true
+10-29 17:45:26.135 /I/okt_sdk: [BaseSliceLoader] @@ destroy backstopCacheData
+10-29 17:45:26.135 /D/okt_sdk: AdLoaderIndex = forAdCache
+10-29 17:45:26.135 /D/okt_sdk: Banner platform = topon , 加载sdk内容耗时：9762ms
+10-29 17:45:26.135 /D/okt_sdk: Banner platform = topon , onAdLoaded
+10-29 17:45:26.135 /I/okt_sdk: [BaseAdCache] @@ 移除胜出的广告缓存，platform = topon, type = banner, revenue = 2.0
+10-29 17:45:26.135 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:26.135 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:26.136 /I/okt_sdk: [BaseSliceLoader] @@ loadNextAd, adPlcID = 1384
+10-29 17:45:26.136 /I/okt_sdk: ac, key=1384, isExpired=false
+10-29 17:45:26.136 /I/okt_sdk: [AdCacheRefreshUtils] @@ loadNextAd, adType = banner, adPlcID = 1384
+10-29 17:45:26.136 /D/okt_sdk: banner 连接sdk获取数据
+10-29 17:45:26.136 /D/okt_sdk: banner 连接服务器耗时 = 0ms
+10-29 17:45:26.137 /I/okt_sdk: [BaseSliceLoader] @@ bid, isUseClientBid = true, realBidTime = 1
+10-29 17:45:26.137 /I/okt_sdk: [BaseSliceLoader] @@ setBidCountDown, time = 1
+10-29 17:45:26.138 /I/okt_sdk: [BaseSliceLoader] @@ createAdLoader4Backstop, size = 0
+10-29 17:45:26.145 /I/okt_sdk: [BaseSliceLoader] @@ bid finish, type = Banner, win platform = topon, revenue = 2.0
+10-29 17:45:26.149 /D/okt_sdk: banner platform = topon , 开始加载广告
+10-29 17:45:26.150 /D/okt_sdk: BaseMainAd @@ checkClickUrl 备用地址为空 不进行检测！
+10-29 17:45:26.153 /D/okt_sdk: BaseMainAd @@ onCheckUrlFinish
+10-29 17:45:26.153 /I/okt_sdk: [BaseMainAd] @@ setRevenue banner, platform = topon, revenue = 2.0
+10-29 17:45:26.154 /I/okt_sdk: initTopOn: start
+10-29 17:45:26.154 /I/okt_sdk: TopOn has init success
+10-29 17:45:26.319 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306726127,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1384","adType":7,"adID":"996","sourceID":"33846","platform":"topon","type":8,"requestID":"e9eb84eb-0e7a-4732-81ea-ad0555040682","materialId":"","network":"","isBrush":0,"fillCostTime":9753,"apiCostTime":2618,"sign":"66db32f041bd87fea84ea3be8088960a"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306726}
+costTime = 186ms
+10-29 17:45:26.320 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:26.914 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306726146,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1384","adType":7,"adID":"996","sourceID":"33846","platform":"topon","type":9,"requestID":"4a6ea0fa-5069-484f-8aa1-39ac07a326e7","materialId":"","network":"","isBrush":1,"fillCostTime":0,"apiCostTime":0,"sign":"a7c8f51cc190265e12027eabb772cf62"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306727}
+costTime = 762ms
+10-29 17:45:26.915 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:27.149 /I/okt_sdk: [BaseSliceLoader] @@ bid time out from refresh
+10-29 17:45:28.170 /D/okt_sdk: LifeListenerFragment onPause
+10-29 17:45:28.424 /D/okt_sdk: Banner 连接sdk获取数据
+10-29 17:45:28.425 /I/okt_sdk: ac, key=1386, isExpired=true
+10-29 17:45:28.425 /D/okt_sdk: savedDay 356
+10-29 17:45:28.425 /D/okt_sdk: savedDay 356
+10-29 17:45:28.425 /D/okt_sdk: float 连接sdk获取数据
+10-29 17:45:28.429 /I/okt_sdk: ac, key=1379, isExpired=true
+10-29 17:45:28.429 /D/okt_sdk: savedDay 356
+10-29 17:45:28.430 /D/okt_sdk: savedDay 356
+10-29 17:45:29.123 /D/okt_sdk: LifeListenerFragment onStop
+10-29 17:45:29.474 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/ReqSmallFloatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306728429,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1379","sw":1220,"sh":2712,"orientation":1,"historyMid":"[]","show_limit":"[{\"adid\":\"4074\",\"count\":3},{\"adid\":\"4099\",\"count\":1},{\"adid\":\"4058\",\"count\":1},{\"adid\":\"2892\",\"count\":3},{\"adid\":\"3486\",\"count\":1},{\"adid\":\"4094\",\"count\":1},{\"adid\":\"3814\",\"count\":2},{\"adid\":\"3914\",\"count\":7},{\"adid\":\"2586\",\"count\":15},{\"adid\":\"4323\",\"count\":2},{\"adid\":\"3851\",\"count\":3},{\"adid\":\"3775\",\"count\":20},{\"adid\":\"3657\",\"count\":1},{\"adid\":\"3976\",\"count\":3},{\"adid\":\"3779\",\"count\":10},{\"adid\":\"3934\",\"count\":2},{\"adid\":\"4022\",\"count\":10},{\"adid\":\"4066\",\"count\":1},{\"adid\":\"4122\",\"count\":1},{\"adid\":\"3869\",\"count\":1},{\"adid\":\"3968\",\"count\":1},{\"adid\":\"3706\",\"count\":2},{\"adid\":\"3468\",\"count\":14},{\"adid\":\"3544\",\"count\":5},{\"adid\":\"3564\",\"count\":11},{\"adid\":\"3685\",\"count\":2},{\"adid\":\"3922\",\"count\":3}]","adAreaType":"[{\"adid\":\"2586\",\"count\":2},{\"adid\":\"3564\",\"count\":2}]","sign":"de561b39b1cb0943e5a5e50772fb30e4"}
+responseCode = 200
+result = {"status":1001,"info":"","data":{"loadNumber":"1","biddingTime":"10","waterfall":"1","adList":[{"sourceID":"22608","adID":"4414","logoUrl":"","name":"9560.com","summary":"rico da noite para o dia!","package":"","type":"2","imgUrl":"https:\/\/cdn-america6.ibkckks.com\/material\/73967\/1\/73967_1_1789182661.gif","videoUrl":"","width":0,"height":0,"clickUrl":"https:\/\/y10a.tyabkdrm.com?ch=82373","webUrl":"https:\/\/y10a.tyabkdrm.com?ch=82373","countDownTime":3,"platform":"wx","adAreaType":"1","materialId":70805,"forceClick":0,"fcDelayTime":0,"webPrice":"0.00010","isDrag":"0"}],"bottomAdList":[]},"timestamp":1793306729}
+costTime = 1042ms
+10-29 17:45:29.477 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:29.481 /D/okt_sdk: float 连接服务器耗时 = 1052ms
+10-29 17:45:29.481 /I/okt_sdk: ac, put 1379
+10-29 17:45:29.482 /D/okt_sdk: addHistoryID adPlcID = 1379, materialId = 70805
+10-29 17:45:29.482 /D/okt_sdk: historyMidHashMap [{1379=70805}]
+10-29 17:45:29.482 /I/okt_sdk: addAdShowCountData
+10-29 17:45:29.482 /D/okt_sdk: savedDay 356
+10-29 17:45:29.482 /D/okt_sdk: Constant.adShowCountMap {插屏=[2584, 2584, 2584, 2584, 3912, 3912, 3912, 3912, 3484, 3562, 3562, 4020, 4020, 4064, 4064, 3651, 3773, 3773, 3773, 3773, 3655, 3974, 3777, 2890, 3466, 3466, 3466, 3542, 3542, 3542, 3704, 3704, 3704], 激励视频=[4320, 2589, 4233, 4233, 4233, 4233, 4233, 4233, 4239, 4224, 4224, 4222, 4220, 4220, 4220, 4220, 4220, 4220, 4220], banner=[3913, 3913, 3913, 3913, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 4121, 4121, 3868, 3868, 3868, 3705, 2891, 2891, 2891, 3467, 3467, 3467, 3467, 3467, 3467, 3543, 3543, 3543, 3543, 3543, 3543, 3543, 3543, 4073, 3778, 3778, 3778, 3778, 3778, 3778, 3813, 3652, 3652, 3652, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3975, 4021, 4021, 4021, 4021, 4021, 4021, 4021, 4065, 4065, 4065, 4065, 3967, 3485, 3485, 3684, 3684, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 4057], float=[3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3851, 3851, 3851, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3657, 3976, 3976, 3976, 3814, 3814, 3934, 3934, 4074, 4074, 4074, 3544, 3544, 3544, 3544, 3544, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 2892, 2892, 2892, 3706, 3706, 3869, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 4323, 4323, 4122, 3914, 3914, 3914, 3914, 3914, 3914, 3914, 4099, 4094, 4058, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3685, 3685, 3486, 3922, 3922, 3922, 3968, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4066, 4414]}
+10-29 17:45:29.483 /D/okt_sdk: float platform = wx , 开始加载广告
+10-29 17:45:29.483 /D/okt_sdk: isGpDetailsPage url = https://y10a.tyabkdrm.com?ch=82373
+10-29 17:45:29.483 /D/okt_sdk: BaseMainAd @@ checkClickUrl 地址非谷歌商店详情页 不进行检测！
+10-29 17:45:29.483 /D/okt_sdk: BaseMainAd @@ onCheckUrlFinish
+10-29 17:45:29.483 /D/okt_sdk: 开启广告误触 true
+10-29 17:45:29.622 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/ReqBannerAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306728422,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1386","sw":1220,"sh":2712,"orientation":1,"historyMid":"[]","show_limit":"[{\"adid\":\"4073\",\"count\":1},{\"adid\":\"4021\",\"count\":7},{\"adid\":\"4065\",\"count\":4},{\"adid\":\"4121\",\"count\":2},{\"adid\":\"4057\",\"count\":1},{\"adid\":\"3684\",\"count\":2},{\"adid\":\"3563\",\"count\":11},{\"adid\":\"2891\",\"count\":3},{\"adid\":\"3485\",\"count\":2},{\"adid\":\"3913\",\"count\":4},{\"adid\":\"3705\",\"count\":1},{\"adid\":\"3467\",\"count\":6},{\"adid\":\"3543\",\"count\":8},{\"adid\":\"2585\",\"count\":14},{\"adid\":\"3652\",\"count\":3},{\"adid\":\"3774\",\"count\":16},{\"adid\":\"3975\",\"count\":1},{\"adid\":\"3778\",\"count\":6},{\"adid\":\"3868\",\"count\":3},{\"adid\":\"3813\",\"count\":1},{\"adid\":\"3967\",\"count\":1}]","adAreaType":"[]","sign":"37578565db9148f8ef3f6fc0e89e1b88"}
+responseCode = 200
+result = {"status":1001,"info":"","data":{"loadNumber":"1","biddingTime":"10","waterfall":"1","adList":[{"adID":"996","platform":"topon","sourceID":"33844","thirdAppID":"h69f1c080de116","thirdAppKey":"ed8ea7466856e316f585b4a6658c2e34","thirdPosID":"n69f1c0be439e2","thirdUnitID":"","adSize":"","gWidth":"1000","gHeight":"500","webPrice":"2.00000000"},{"sourceID":"22621","adID":"4453","logoUrl":"","name":"pandasorte","summary":"rico da noite para o dia","package":"","type":"2","imgUrl":"https:\/\/cdn-america6.ibkckks.com\/material\/75662\/1\/75662_1_1791628654.jpeg","videoUrl":"","videoWidth":0,"videoHeight":0,"clickUrl":"https:\/\/www.pandasorte.cc\/index?invite=6N7CYJGY4S","webUrl":"https:\/\/www.pandasorte.cc\/index?invite=6N7CYJGY4S","countDownTime":0,"platform":"wx","adSize":"","adAreaType":"1","materialId":72500,"forceClick":0,"fcDelayTime":0,"webPrice":"0.00000000"}],"bottomAdList":[]},"timestamp":1793306730}
+costTime = 1192ms
+10-29 17:45:29.622 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:29.622 /D/okt_sdk: FloorSize = 2, SliceSize = 1
+10-29 17:45:29.622 /D/okt_sdk: Banner 连接服务器耗时：1200ms
+10-29 17:45:29.622 /D/okt_sdk: 开始加载广告
+10-29 17:45:29.622 /D/okt_sdk: banner 连接sdk获取数据
+10-29 17:45:29.623 /D/okt_sdk: banner 连接服务器耗时 = 0ms
+10-29 17:45:29.624 /I/okt_sdk: [BaseSliceLoader] @@ bid, isUseClientBid = true, realBidTime = 10
+10-29 17:45:29.624 /I/okt_sdk: [BaseSliceLoader] @@ setBidCountDown, time = 10
+10-29 17:45:29.624 /I/okt_sdk: [BaseSliceLoader] @@ createAdLoader4Backstop, size = 0
+10-29 17:45:29.624 /I/okt_sdk: ac, put 1386
+10-29 17:45:29.624 /D/okt_sdk: banner platform = topon , 开始加载广告
+10-29 17:45:29.624 /D/okt_sdk: BaseMainAd @@ checkClickUrl 备用地址为空 不进行检测！
+10-29 17:45:29.624 /D/okt_sdk: BaseMainAd @@ onCheckUrlFinish
+10-29 17:45:29.624 /I/okt_sdk: [BaseMainAd] @@ setRevenue banner, platform = topon, revenue = 2.0
+10-29 17:45:29.624 /I/okt_sdk: initTopOn: start
+10-29 17:45:29.625 /I/okt_sdk: TopOn has init success
+10-29 17:45:29.679 /D/okt_sdk: setAdCostTime
+10-29 17:45:29.679 /D/okt_sdk: 激励视频 platform = topon , onAdVideoCache
+10-29 17:45:29.680 /D/okt_sdk: 激励视频 platform = topon, 成功：加载sdk内容耗时 = 16897ms
+10-29 17:45:29.680 /D/okt_sdk: 激励视频 加载广告耗时 = 17224ms
+10-29 17:45:29.680 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:29.680 /I/okt_sdk: [BaseAdCache] @@ 缓存排序, adType=激励视频, adPlcID=reward, index=0, revenue=2.0, platform=topon 234826818
+10-29 17:45:29.680 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:29.680 /I/okt_sdk: [BaseSliceLoader] @@ bid finish from refresh
+10-29 17:45:29.680 /I/okt_sdk: [AdCacheRefreshUtils] @@ preloadAd succ, adType = 激励
+10-29 17:45:29.724 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306729479,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1379","adType":27,"adID":"4414","sourceID":"22608","platform":"wx","type":9,"requestID":"f9cf35e7-a3dc-403e-8abd-bd5fd77a787a","materialId":"70805","network":"","isBrush":0,"fillCostTime":0,"apiCostTime":0,"sign":"2af542c8914de33ae88414795be74cc2"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306730}
+costTime = 243ms
+10-29 17:45:29.724 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:29.730 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306729622,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1386","adType":7,"adID":"996","sourceID":"33844","platform":"topon","type":9,"requestID":"bc4aa7f8-91cb-49c4-b74d-8d8f38b27a87","materialId":"","network":"","isBrush":0,"fillCostTime":0,"apiCostTime":1200,"sign":"b907dca263f6c28868d99b8e54191735"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306730}
+costTime = 105ms
+10-29 17:45:29.730 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:29.953 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306729677,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1382","adType":3,"adID":"994","sourceID":"33848","platform":"topon","type":8,"userID":"","extraMsg":"","requestID":"6ec6c1f3-95ce-4e27-913e-0c61bb087a88","materialId":"","network":"","isBrush":1,"fillCostTime":16897,"apiCostTime":0,"sign":"ff058a32a35862b984e7cb2a1d2a259b"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306730}
+costTime = 273ms
+10-29 17:45:29.957 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:31.664 /D/okt_sdk: BaseMainAd @@ onLoadDataFinish
+10-29 17:45:31.664 /D/okt_sdk: setAdCostTime
+10-29 17:45:31.666 /D/okt_sdk: float platform = wx, 成功：加载sdk内容耗时 = 2184ms
+10-29 17:45:31.666 /D/okt_sdk: float platform = wx , onAdLoaded
+10-29 17:45:31.667 /D/okt_sdk: float 加载广告耗时 = 2188ms
+10-29 17:45:31.670 /D/okt_sdk: float platform = wx , onAdShow
+10-29 17:45:31.670 /D/okt_sdk: 强制点击广告 state 0
+10-29 17:45:31.671 /D/okt_sdk: MainPreload @@ preloadService, startPreloadService, period = 300s
+10-29 17:45:32.016 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306731663,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1379","adType":27,"adID":"4414","sourceID":"22608","platform":"wx","type":8,"requestID":"f9cf35e7-a3dc-403e-8abd-bd5fd77a787a","materialId":"70805","network":"","isBrush":0,"fillCostTime":2184,"apiCostTime":0,"sign":"57558b6e423addf8f155ed306f2fcc63"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306732}
+costTime = 352ms
+10-29 17:45:32.020 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:32.741 /D/okt_sdk: m @@ expressWidth 1220
+10-29 17:45:32.741 /D/okt_sdk: m @@ expressHeight 537
+10-29 17:45:32.741 /D/okt_sdk: setAdCostTime
+10-29 17:45:32.741 /D/okt_sdk: 信息流 platform = topon, 成功：加载sdk内容耗时 = 9586ms
+10-29 17:45:32.741 /D/okt_sdk: 信息流 platform = topon , onAdLoaded
+10-29 17:45:32.741 /D/okt_sdk: 信息流 加载广告耗时 = 9603ms
+10-29 17:45:32.746 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:32.746 /I/okt_sdk: [BaseAdCache] @@ 缓存排序, adType=信息流, adPlcID=native, index=0, revenue=2.0, platform=topon 182876096
+10-29 17:45:32.746 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:32.746 /I/okt_sdk: [BaseSliceLoader] @@ bid finish from refresh
+10-29 17:45:32.958 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306732740,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1389","adType":4,"adID":"1053","sourceID":"33841","platform":"topon","type":8,"requestID":"ac3baf3d-840d-49cd-b063-2d6463bc8ec9","materialId":"","network":"","isBrush":1,"fillCostTime":9586,"apiCostTime":0,"sign":"2fcf783c2fd00dbfbe161211bbd542e8"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306733}
+costTime = 214ms
+10-29 17:45:32.985 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306731664,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1379","adType":27,"adID":"4414","sourceID":"22608","platform":"wx","type":0,"requestID":"f9cf35e7-a3dc-403e-8abd-bd5fd77a787a","materialId":"70805","network":"","isBrush":0,"fillCostTime":0,"apiCostTime":0,"sign":"22729a95e094db71edeea4bcbe0e8ad4"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306733}
+costTime = 1319ms
+10-29 17:45:33.066 /D/okt_sdk: Banner 连接sdk获取数据
+10-29 17:45:33.067 /I/okt_sdk: ac, key=1386, isExpired=false
+10-29 17:45:33.067 /D/okt_sdk: FloorSize = 2, SliceSize = 1
+10-29 17:45:33.067 /D/okt_sdk: Banner 连接服务器耗时：1ms
+10-29 17:45:33.067 /D/okt_sdk: 开始加载广告
+10-29 17:45:33.067 /D/okt_sdk: banner 连接sdk获取数据
+10-29 17:45:33.067 /D/okt_sdk: banner 连接服务器耗时 = 0ms
+10-29 17:45:33.067 /I/okt_sdk: [BaseSliceLoader] @@ bid, isUseClientBid = true, realBidTime = 10
+10-29 17:45:33.067 /I/okt_sdk: [BaseSliceLoader] @@ setBidCountDown, time = 10
+10-29 17:45:33.068 /I/okt_sdk: [BaseSliceLoader] @@ createAdLoader4Backstop, size = 0
+10-29 17:45:33.068 /I/okt_sdk: ac from cache
+10-29 17:45:33.068 /D/okt_sdk: savedDay 356
+10-29 17:45:33.068 /D/okt_sdk: savedDay 356
+10-29 17:45:33.069 /D/okt_sdk: float 连接sdk获取数据
+10-29 17:45:33.069 /I/okt_sdk: ac, key=1379, isExpired=false
+10-29 17:45:33.069 /D/okt_sdk: float 连接服务器耗时 = 0ms
+10-29 17:45:33.069 /I/okt_sdk: ac from cache
+10-29 17:45:33.070 /D/okt_sdk: savedDay 356
+10-29 17:45:33.070 /D/okt_sdk: savedDay 356
+10-29 17:45:33.192 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:33.193 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:33.193 /D/okt_sdk: banner platform = topon , 开始加载广告
+10-29 17:45:33.194 /D/okt_sdk: BaseMainAd @@ checkClickUrl 备用地址为空 不进行检测！
+10-29 17:45:33.194 /D/okt_sdk: BaseMainAd @@ onCheckUrlFinish
+10-29 17:45:33.194 /I/okt_sdk: [BaseMainAd] @@ setRevenue banner, platform = topon, revenue = 2.0
+10-29 17:45:33.194 /I/okt_sdk: initTopOn: start
+10-29 17:45:33.194 /I/okt_sdk: TopOn has init success
+10-29 17:45:33.252 /D/okt_sdk: addHistoryID adPlcID = 1379, materialId = 70805
+10-29 17:45:33.255 /D/okt_sdk: historyMidHashMap [{1379=70805}, {1379=70805}]
+10-29 17:45:33.256 /I/okt_sdk: addAdShowCountData
+10-29 17:45:33.256 /D/okt_sdk: savedDay 356
+10-29 17:45:33.256 /D/okt_sdk: Constant.adShowCountMap {插屏=[2584, 2584, 2584, 2584, 3912, 3912, 3912, 3912, 3484, 3562, 3562, 4020, 4020, 4064, 4064, 3651, 3773, 3773, 3773, 3773, 3655, 3974, 3777, 2890, 3466, 3466, 3466, 3542, 3542, 3542, 3704, 3704, 3704], 激励视频=[4320, 2589, 4233, 4233, 4233, 4233, 4233, 4233, 4239, 4224, 4224, 4222, 4220, 4220, 4220, 4220, 4220, 4220, 4220], banner=[3913, 3913, 3913, 3913, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 4121, 4121, 3868, 3868, 3868, 3705, 2891, 2891, 2891, 3467, 3467, 3467, 3467, 3467, 3467, 3543, 3543, 3543, 3543, 3543, 3543, 3543, 3543, 4073, 3778, 3778, 3778, 3778, 3778, 3778, 3813, 3652, 3652, 3652, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3975, 4021, 4021, 4021, 4021, 4021, 4021, 4021, 4065, 4065, 4065, 4065, 3967, 3485, 3485, 3684, 3684, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 4057], float=[3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3851, 3851, 3851, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3657, 3976, 3976, 3976, 3814, 3814, 3934, 3934, 4074, 4074, 4074, 3544, 3544, 3544, 3544, 3544, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 2892, 2892, 2892, 3706, 3706, 3869, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 4323, 4323, 4122, 3914, 3914, 3914, 3914, 3914, 3914, 3914, 4099, 4094, 4058, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3685, 3685, 3486, 3922, 3922, 3922, 3968, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4066, 4414, 4414]}
+10-29 17:45:33.257 /D/okt_sdk: float platform = wx , 开始加载广告
+10-29 17:45:33.257 /D/okt_sdk: isGpDetailsPage url = https://y10a.tyabkdrm.com?ch=82373
+10-29 17:45:33.258 /D/okt_sdk: BaseMainAd @@ checkClickUrl 地址非谷歌商店详情页 不进行检测！
+10-29 17:45:33.258 /D/okt_sdk: BaseMainAd @@ onCheckUrlFinish
+10-29 17:45:33.259 /D/okt_sdk: 开启广告误触 true
+10-29 17:45:33.331 /D/okt_sdk: BaseMainAd @@ onLoadDataFinish
+10-29 17:45:33.394 /D/okt_sdk: setAdCostTime
+10-29 17:45:33.395 /D/okt_sdk: float platform = wx, 成功：加载sdk内容耗时 = 138ms
+10-29 17:45:33.395 /D/okt_sdk: float platform = wx , onAdLoaded
+10-29 17:45:33.396 /D/okt_sdk: float 加载广告耗时 = 323ms
+10-29 17:45:33.396 /D/okt_sdk: float platform = wx , onAdShow
+10-29 17:45:33.396 /D/okt_sdk: 强制点击广告 state 0
+10-29 17:45:33.397 /D/okt_sdk: MainPreload @@ preloadService, startPreloadService, period = 300s
+10-29 17:45:33.398 /D/okt_sdk: MainPreload @@ preloadService, PreloadService has started
+10-29 17:45:33.542 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/ReqBannerAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306733067,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1386","sw":1220,"sh":2712,"orientation":1,"historyMid":"[]","show_limit":"[{\"adid\":\"4073\",\"count\":1},{\"adid\":\"4021\",\"count\":7},{\"adid\":\"4065\",\"count\":4},{\"adid\":\"4121\",\"count\":2},{\"adid\":\"4057\",\"count\":1},{\"adid\":\"3684\",\"count\":2},{\"adid\":\"3563\",\"count\":11},{\"adid\":\"2891\",\"count\":3},{\"adid\":\"3485\",\"count\":2},{\"adid\":\"3913\",\"count\":4},{\"adid\":\"3705\",\"count\":1},{\"adid\":\"3467\",\"count\":6},{\"adid\":\"3543\",\"count\":8},{\"adid\":\"2585\",\"count\":14},{\"adid\":\"3652\",\"count\":3},{\"adid\":\"3774\",\"count\":16},{\"adid\":\"3975\",\"count\":1},{\"adid\":\"3778\",\"count\":6},{\"adid\":\"3868\",\"count\":3},{\"adid\":\"3813\",\"count\":1},{\"adid\":\"3967\",\"count\":1}]","adAreaType":"[]","sign":"c7d68242ddccc97f466152cbc6ac73d4"}
+responseCode = 200
+result = {"status":1001,"info":"","data":{"loadNumber":"1","biddingTime":"10","waterfall":"1","adList":[{"adID":"996","platform":"topon","sourceID":"33844","thirdAppID":"h69f1c080de116","thirdAppKey":"ed8ea7466856e316f585b4a6658c2e34","thirdPosID":"n69f1c0be439e2","thirdUnitID":"","adSize":"","gWidth":"1000","gHeight":"500","webPrice":"2.00000000"},{"sourceID":"22621","adID":"4093","logoUrl":"","name":"62m.com","summary":"rico da noite para o dia","package":"","type":"2","imgUrl":"https:\/\/cdn-america6.ibkckks.com\/material\/75577\/1\/75577_1_1791545529.jpeg","videoUrl":"","videoWidth":0,"videoHeight":0,"clickUrl":"https:\/\/fsa-fr4-36d.com?ch=126516","webUrl":"https:\/\/fsa-fr4-36d.com?ch=126516","countDownTime":0,"platform":"wx","adSize":"","adAreaType":"1","materialId":72415,"forceClick":0,"fcDelayTime":0,"webPrice":"0.00000000"}],"bottomAdList":[]},"timestamp":1793306734}
+costTime = 472ms
+10-29 17:45:33.548 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:33.548 /I/okt_sdk: ac, put 1386
+10-29 17:45:33.682 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306733191,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1386","adType":7,"adID":"996","sourceID":"33844","platform":"topon","type":9,"requestID":"f7387d53-e0b2-42c7-8689-d3066e056daa","materialId":"","network":"","isBrush":0,"fillCostTime":0,"apiCostTime":1,"sign":"f40d9cd8bb4954141b97b60355559c7b"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306734}
+costTime = 487ms
+10-29 17:45:33.682 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:33.998 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306733393,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1379","adType":27,"adID":"4414","sourceID":"22608","platform":"wx","type":0,"requestID":"94785283-bb6c-40fe-a412-a219d24b110d","materialId":"70805","network":"","isBrush":0,"fillCostTime":0,"apiCostTime":0,"sign":"136fc636dad2e4fc99756fa192c8cc79"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306734}
+costTime = 600ms
+10-29 17:45:33.999 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:33.999 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306733391,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1379","adType":27,"adID":"4414","sourceID":"22608","platform":"wx","type":8,"requestID":"94785283-bb6c-40fe-a412-a219d24b110d","materialId":"70805","network":"","isBrush":0,"fillCostTime":138,"apiCostTime":0,"sign":"31773854f2ab7bf0f2b6b0147f1f8a8a"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306734}
+costTime = 605ms
+10-29 17:45:34.000 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:34.001 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306733253,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1379","adType":27,"adID":"4414","sourceID":"22608","platform":"wx","type":9,"requestID":"94785283-bb6c-40fe-a412-a219d24b110d","materialId":"70805","network":"","isBrush":0,"fillCostTime":0,"apiCostTime":0,"sign":"20f31708cf76630284e1edb777a64510"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306734}
+costTime = 747ms
+10-29 17:45:34.002 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:35.797 /D/okt_sdk: m @@ expressWidth 1220
+10-29 17:45:35.797 /D/okt_sdk: m @@ expressHeight 695
+10-29 17:45:35.797 /D/okt_sdk: setAdCostTime
+10-29 17:45:35.798 /D/okt_sdk: banner platform = topon, 成功：加载sdk内容耗时 = 9646ms
+10-29 17:45:35.798 /D/okt_sdk: banner platform = topon , onAdLoaded
+10-29 17:45:35.798 /D/okt_sdk: banner 加载广告耗时 = 9663ms
+10-29 17:45:35.834 /E/okt_sdk: addFragmentListener, Activity has been destroyed
+10-29 17:45:35.835 /D/okt_sdk: m @@ expressWidth 1220
+10-29 17:45:35.837 /D/okt_sdk: m @@ expressHeight 610
+10-29 17:45:35.837 /D/okt_sdk: setAdCostTime
+10-29 17:45:35.837 /D/okt_sdk: banner platform = topon, 成功：加载sdk内容耗时 = 6213ms
+10-29 17:45:35.838 /D/okt_sdk: banner platform = topon , onAdLoaded
+10-29 17:45:35.838 /D/okt_sdk: banner 加载广告耗时 = 6215ms
+10-29 17:45:35.890 /D/okt_sdk: m @@ expressWidth 1220
+10-29 17:45:35.891 /D/okt_sdk: m @@ expressHeight 610
+10-29 17:45:35.891 /D/okt_sdk: setAdCostTime
+10-29 17:45:35.891 /D/okt_sdk: banner platform = topon, 成功：加载sdk内容耗时 = 2699ms
+10-29 17:45:35.891 /D/okt_sdk: banner platform = topon , onAdLoaded
+10-29 17:45:35.891 /D/okt_sdk: banner 加载广告耗时 = 2824ms
+10-29 17:45:35.898 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:35.899 /I/okt_sdk: [BaseAdCache] @@ 缓存排序, adType=banner, adPlcID=banner, index=0, revenue=2.0, platform=topon 65389753
+10-29 17:45:35.899 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:35.899 /I/okt_sdk: [BaseSliceLoader] @@ bid finish from refresh
+10-29 17:45:35.899 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:35.899 /I/okt_sdk: [BaseAdCache] @@ 缓存排序, adType=banner, adPlcID=banner, index=0, revenue=2.0, platform=topon 65389753
+10-29 17:45:35.899 /I/okt_sdk: [BaseAdCache] @@ 缓存排序, adType=banner, adPlcID=banner, index=1, revenue=2.0, platform=topon 102203146
+10-29 17:45:35.899 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:35.899 /I/okt_sdk: [BaseAdCache] @@ 有效缓存, adType=banner, adPlcID=banner, index=0, revenue=2.0, platform=topon 65389753
+10-29 17:45:35.899 /I/okt_sdk: [BaseSliceLoader] @@ is read cache list, state = true
+10-29 17:45:35.899 /I/okt_sdk: [BaseSliceLoader] @@ destroy backstopCacheData
+10-29 17:45:35.899 /D/okt_sdk: AdLoaderIndex = forAdCache
+10-29 17:45:35.900 /D/okt_sdk: Banner platform = topon , 加载sdk内容耗时：6278ms
+10-29 17:45:35.900 /D/okt_sdk: Banner platform = topon , onAdLoaded
+10-29 17:45:35.900 /I/okt_sdk: [BaseAdCache] @@ 移除胜出的广告缓存，platform = topon, type = banner, revenue = 2.0
+10-29 17:45:35.900 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:35.900 /I/okt_sdk: [BaseAdCache] @@ 缓存排序, adType=banner, adPlcID=banner, index=0, revenue=2.0, platform=topon 102203146
+10-29 17:45:35.900 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:35.900 /I/okt_sdk: [BaseSliceLoader] @@ loadNextAd, adPlcID = 1386
+10-29 17:45:35.900 /I/okt_sdk: ac, key=1386, isExpired=false
+10-29 17:45:35.900 /I/okt_sdk: [AdCacheRefreshUtils] @@ loadNextAd, adType = banner, adPlcID = adPlcID has ad cache size = 1
+10-29 17:45:35.900 /I/okt_sdk: [BaseSliceLoader] @@ bid finish, type = Banner, win platform = topon, revenue = 2.0
+10-29 17:45:35.906 /D/okt_sdk: LifeListenerFragment onStart
+10-29 17:45:35.906 /D/okt_sdk: LifeListenerFragment onResume
+10-29 17:45:35.906 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:35.906 /I/okt_sdk: [BaseAdCache] @@ 缓存排序, adType=banner, adPlcID=banner, index=0, revenue=2.0, platform=topon 102203146
+10-29 17:45:35.906 /I/okt_sdk: [BaseAdCache] @@ 缓存排序, adType=banner, adPlcID=banner, index=1, revenue=2.0, platform=topon 78414756
+10-29 17:45:35.906 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:35.906 /I/okt_sdk: [BaseAdCache] @@ Act失效, adType=banner, adPlcID=banner, index=0, revenue=2.0, platform=topon 102203146
+10-29 17:45:35.907 /I/okt_sdk: [BaseAdCache] @@ 移除广告缓存，index = 0
+10-29 17:45:35.907 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:35.907 /I/okt_sdk: [BaseAdCache] @@ 缓存排序, adType=banner, adPlcID=banner, index=0, revenue=2.0, platform=topon 78414756
+10-29 17:45:35.907 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:35.907 /I/okt_sdk: [BaseAdCache] @@ 有效缓存, adType=banner, adPlcID=banner, index=0, revenue=2.0, platform=topon 78414756
+10-29 17:45:35.907 /I/okt_sdk: [BaseSliceLoader] @@ is read cache list, state = true
+10-29 17:45:35.907 /I/okt_sdk: [BaseSliceLoader] @@ destroy backstopCacheData
+10-29 17:45:35.907 /D/okt_sdk: AdLoaderIndex = forAdCache
+10-29 17:45:35.907 /D/okt_sdk: Banner platform = topon , 加载sdk内容耗时：2837ms
+10-29 17:45:35.907 /D/okt_sdk: Banner platform = topon , onAdLoaded
+10-29 17:45:35.907 /I/okt_sdk: [BaseAdCache] @@ 移除胜出的广告缓存，platform = topon, type = banner, revenue = 2.0
+10-29 17:45:35.907 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:35.907 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:35.908 /I/okt_sdk: [BaseSliceLoader] @@ loadNextAd, adPlcID = 1386
+10-29 17:45:35.908 /I/okt_sdk: ac, key=1386, isExpired=false
+10-29 17:45:35.908 /I/okt_sdk: [AdCacheRefreshUtils] @@ loadNextAd, adType = banner, adPlcID = 1386
+10-29 17:45:35.908 /D/okt_sdk: banner 连接sdk获取数据
+10-29 17:45:35.908 /D/okt_sdk: banner 连接服务器耗时 = 0ms
+10-29 17:45:35.908 /I/okt_sdk: [BaseSliceLoader] @@ bid, isUseClientBid = true, realBidTime = 1
+10-29 17:45:35.908 /I/okt_sdk: [BaseSliceLoader] @@ setBidCountDown, time = 1
+10-29 17:45:35.908 /I/okt_sdk: [BaseSliceLoader] @@ createAdLoader4Backstop, size = 0
+10-29 17:45:35.915 /I/okt_sdk: [BaseSliceLoader] @@ bid finish, type = Banner, win platform = topon, revenue = 2.0
+10-29 17:45:35.932 /D/okt_sdk: banner platform = topon , 开始加载广告
+10-29 17:45:35.938 /D/okt_sdk: BaseMainAd @@ checkClickUrl 备用地址为空 不进行检测！
+10-29 17:45:35.938 /D/okt_sdk: BaseMainAd @@ onCheckUrlFinish
+10-29 17:45:35.938 /I/okt_sdk: [BaseMainAd] @@ setRevenue banner, platform = topon, revenue = 2.0
+10-29 17:45:35.940 /I/okt_sdk: initTopOn: start
+10-29 17:45:35.940 /I/okt_sdk: TopOn has init success
+10-29 17:45:36.087 /I/okt_sdk: FsAdInfo, platform = topon, adPlcID = 1386, AdNetWork = Mintegral
+10-29 17:45:36.087 /D/okt_sdk: banner platform = topon , onAdShow
+10-29 17:45:36.087 /D/okt_sdk: Banner platform = topon , onAdShow
+10-29 17:45:36.732 /D/okt_sdk: MainPreload @@ preloadService, onStartCommand
+10-29 17:45:36.850 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306735928,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1386","adType":7,"adID":"996","sourceID":"33844","platform":"topon","type":9,"requestID":"09eb7e51-2f35-43ed-8b74-60f7dc99e51d","materialId":"","network":"","isBrush":1,"fillCostTime":0,"apiCostTime":0,"sign":"0521cee21a3ee9b6eda15e3c1581cfa4"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306737}
+costTime = 910ms
+10-29 17:45:36.853 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:36.930 /I/okt_sdk: [BaseSliceLoader] @@ bid time out from refresh
+10-29 17:45:38.173 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306735890,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1386","adType":7,"adID":"996","sourceID":"33844","platform":"topon","type":8,"requestID":"f7387d53-e0b2-42c7-8689-d3066e056daa","materialId":"","network":"","isBrush":0,"fillCostTime":2699,"apiCostTime":1,"sign":"bb67b40f366ca116bcaa445e3651fa88"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306737}
+costTime = 2281ms
+10-29 17:45:38.188 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:38.310 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306735792,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1384","adType":7,"adID":"996","sourceID":"33846","platform":"topon","type":8,"requestID":"4a6ea0fa-5069-484f-8aa1-39ac07a326e7","materialId":"","network":"","isBrush":1,"fillCostTime":9646,"apiCostTime":0,"sign":"3003f3b5eb6b441d34d6c38717338305"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306737}
+costTime = 2513ms
+10-29 17:45:38.311 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.biggogo.com
+10-29 17:45:38.333 /E/okt_sdk: [NetRequest] @@ postData error, url = https://sdkapi-ga.biggogo.com/2_12_0/ReqSmallFloatAd, msg = timeout
+10-29 17:45:38.858 /E/okt_sdk: [NetRequest] @@ postData error, url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd, msg = Software caused connection abort
+10-29 17:45:38.870 /E/okt_sdk: [NetRequest] @@ postData error, url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd, msg = Software caused connection abort
+10-29 17:45:38.875 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.biggogo.com": No address associated with hostname
+
+10-29 17:45:38.881 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.biggogo.com": No address associated with hostname
+
+10-29 17:45:38.881 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.biggogo.com": No address associated with hostname
+
+10-29 17:45:38.882 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.biggogo.com": No address associated with hostname
+
+10-29 17:45:38.882 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.biggogo.com": No address associated with hostname
+
+10-29 17:45:38.882 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306735835,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1386","adType":7,"adID":"996","sourceID":"33844","platform":"topon","type":8,"requestID":"bc4aa7f8-91cb-49c4-b74d-8d8f38b27a87","materialId":"","network":"","isBrush":0,"fillCostTime":6213,"apiCostTime":1,"sign":"9bd994349d359fc544ef89232a75bf35"}
+responseCode = 0
+result = HostException
+costTime = 1ms
+10-29 17:45:38.883 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.biggogo.com": No address associated with hostname
+
+10-29 17:45:38.883 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/ReqSmallFloatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306733069,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1379","sw":1220,"sh":2712,"orientation":1,"historyMid":"[\"70805\"]","show_limit":"[{\"adid\":\"4074\",\"count\":3},{\"adid\":\"4099\",\"count\":1},{\"adid\":\"4058\",\"count\":1},{\"adid\":\"2892\",\"count\":3},{\"adid\":\"3486\",\"count\":1},{\"adid\":\"4094\",\"count\":1},{\"adid\":\"3814\",\"count\":2},{\"adid\":\"3914\",\"count\":7},{\"adid\":\"2586\",\"count\":15},{\"adid\":\"4323\",\"count\":2},{\"adid\":\"3851\",\"count\":3},{\"adid\":\"3775\",\"count\":20},{\"adid\":\"3657\",\"count\":1},{\"adid\":\"3976\",\"count\":3},{\"adid\":\"3779\",\"count\":10},{\"adid\":\"3934\",\"count\":2},{\"adid\":\"4022\",\"count\":10},{\"adid\":\"4066\",\"count\":1},{\"adid\":\"4122\",\"count\":1},{\"adid\":\"3869\",\"count\":1},{\"adid\":\"3968\",\"count\":1},{\"adid\":\"3706\",\"count\":2},{\"adid\":\"3468\",\"count\":14},{\"adid\":\"3544\",\"count\":5},{\"adid\":\"3564\",\"count\":11},{\"adid\":\"3685\",\"count\":2},{\"adid\":\"4414\",\"count\":1},{\"adid\":\"3922\",\"count\":3}]","adAreaType":"[{\"adid\":\"2586\",\"count\":2},{\"adid\":\"3564\",\"count\":2}]","sign":"9da4c6b02d95638a646bc7fc307d1672"}
+responseCode = 0
+result = HostException
+costTime = 1ms
+10-29 17:45:38.893 /D/okt_sdk: l1 @@ findAndSetNextHost https://sdkapi-ga.tworkkk.com
+10-29 17:45:38.894 /D/okt_sdk: l1 @@ findAndSetNextHost https://sdkapi-ga.biggogo.com
+10-29 17:45:38.895 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.biggogo.com": No address associated with hostname
+
+10-29 17:45:38.902 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.biggogo.com": No address associated with hostname
+
+10-29 17:45:38.903 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.biggogo.com": No address associated with hostname
+
+10-29 17:45:38.903 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306736082,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1386","adType":7,"adID":"996","sourceID":"33844","platform":"topon","type":0,"requestID":"f7387d53-e0b2-42c7-8689-d3066e056daa","materialId":"","network":"","isBrush":0,"fillCostTime":0,"apiCostTime":0,"sign":"ae08c7c5624fee6d33e6c3bf4958390b"}
+responseCode = 0
+result = HostException
+costTime = 3ms
+10-29 17:45:38.917 /D/okt_sdk: l1 @@ findAndSetNextHost https://sdkapi-ga.smallyy.com
+10-29 17:45:39.015 /D/okt_sdk: m @@ expressWidth 1220
+10-29 17:45:39.016 /D/okt_sdk: m @@ expressHeight 610
+10-29 17:45:39.016 /D/okt_sdk: setAdCostTime
+10-29 17:45:39.025 /D/okt_sdk: banner platform = topon, 成功：加载sdk内容耗时 = 3086ms
+10-29 17:45:39.026 /D/okt_sdk: banner platform = topon , onAdLoaded
+10-29 17:45:39.026 /D/okt_sdk: banner 加载广告耗时 = 3114ms
+10-29 17:45:39.055 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:39.055 /I/okt_sdk: [BaseAdCache] @@ 缓存排序, adType=banner, adPlcID=banner, index=0, revenue=2.0, platform=topon 156361278
+10-29 17:45:39.055 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:45:39.056 /I/okt_sdk: [BaseSliceLoader] @@ bid finish from refresh
+10-29 17:45:39.059 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.060 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.065 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.065 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.066 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.smallyy.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306739014,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1386","adType":7,"adID":"996","sourceID":"33844","platform":"topon","type":8,"requestID":"09eb7e51-2f35-43ed-8b74-60f7dc99e51d","materialId":"","network":"","isBrush":1,"fillCostTime":3086,"apiCostTime":0,"sign":"e1b908074f9dca716d0b6206b41121c4"}
+responseCode = 0
+result = HostException
+costTime = 2ms
+10-29 17:45:39.080 /E/okt_sdk: game over!!!
+10-29 17:45:39.080 /D/okt_sdk: l1 @@ interval_time 400
+10-29 17:45:39.085 /D/okt_sdk: l1 @@ interval_time 600
+10-29 17:45:39.085 /I/okt_sdk: ac, key=1379, isExpired=false
+10-29 17:45:39.085 /D/okt_sdk: float 连接服务器耗时 = 6014ms
+10-29 17:45:39.085 /I/okt_sdk: ac from cache
+10-29 17:45:39.085 /D/okt_sdk: savedDay 356
+10-29 17:45:39.086 /D/okt_sdk: savedDay 356
+10-29 17:45:39.089 /D/okt_sdk: addHistoryID adPlcID = 1379, materialId = 70805
+10-29 17:45:39.089 /D/okt_sdk: historyMidHashMap [{1379=70805}, {1379=70805}, {1379=70805}]
+10-29 17:45:39.089 /I/okt_sdk: addAdShowCountData
+10-29 17:45:39.089 /D/okt_sdk: savedDay 356
+10-29 17:45:39.090 /D/okt_sdk: Constant.adShowCountMap {插屏=[2584, 2584, 2584, 2584, 3912, 3912, 3912, 3912, 3484, 3562, 3562, 4020, 4020, 4064, 4064, 3651, 3773, 3773, 3773, 3773, 3655, 3974, 3777, 2890, 3466, 3466, 3466, 3542, 3542, 3542, 3704, 3704, 3704], 激励视频=[4320, 2589, 4233, 4233, 4233, 4233, 4233, 4233, 4239, 4224, 4224, 4222, 4220, 4220, 4220, 4220, 4220, 4220, 4220], banner=[3913, 3913, 3913, 3913, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 4121, 4121, 3868, 3868, 3868, 3705, 2891, 2891, 2891, 3467, 3467, 3467, 3467, 3467, 3467, 3543, 3543, 3543, 3543, 3543, 3543, 3543, 3543, 4073, 3778, 3778, 3778, 3778, 3778, 3778, 3813, 3652, 3652, 3652, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3975, 4021, 4021, 4021, 4021, 4021, 4021, 4021, 4065, 4065, 4065, 4065, 3967, 3485, 3485, 3684, 3684, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 4057], float=[3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3851, 3851, 3851, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3657, 3976, 3976, 3976, 3814, 3814, 3934, 3934, 4074, 4074, 4074, 3544, 3544, 3544, 3544, 3544, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 2892, 2892, 2892, 3706, 3706, 3869, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 4323, 4323, 4122, 3914, 3914, 3914, 3914, 3914, 3914, 3914, 4099, 4094, 4058, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3685, 3685, 3486, 3922, 3922, 3922, 3968, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4066, 4414, 4414, 4414]}
+10-29 17:45:39.090 /D/okt_sdk: float platform = wx , 开始加载广告
+10-29 17:45:39.118 /D/okt_sdk: isGpDetailsPage url = https://y10a.tyabkdrm.com?ch=82373
+10-29 17:45:39.119 /D/okt_sdk: BaseMainAd @@ checkClickUrl 地址非谷歌商店详情页 不进行检测！
+10-29 17:45:39.132 /D/okt_sdk: BaseMainAd @@ onCheckUrlFinish
+10-29 17:45:39.132 /D/okt_sdk: 开启广告误触 true
+10-29 17:45:39.132 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.132 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.132 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.132 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.132 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.smallyy.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306739088,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1379","adType":27,"adID":"4414","sourceID":"22608","platform":"wx","type":9,"requestID":"94785283-bb6c-40fe-a412-a219d24b110d","materialId":"70805","network":"","isBrush":0,"fillCostTime":0,"apiCostTime":0,"sign":"3176277f0786c1894a2e29db0976850a"}
+responseCode = 0
+result = HostException
+costTime = 5ms
+10-29 17:45:39.136 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.biggogo.com": No address associated with hostname
+
+10-29 17:45:39.136 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.biggogo.com": No address associated with hostname
+
+10-29 17:45:39.138 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.biggogo.com": No address associated with hostname
+
+10-29 17:45:39.141 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.143 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.biggogo.com": No address associated with hostname
+
+10-29 17:45:39.143 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.biggogo.com/2_12_0/ReqSmallFloatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306739083,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1379","sw":1220,"sh":2712,"orientation":1,"historyMid":"[\"70805\",\"70805\"]","show_limit":"[{\"adid\":\"4074\",\"count\":3},{\"adid\":\"4099\",\"count\":1},{\"adid\":\"4058\",\"count\":1},{\"adid\":\"2892\",\"count\":3},{\"adid\":\"3486\",\"count\":1},{\"adid\":\"4094\",\"count\":1},{\"adid\":\"3814\",\"count\":2},{\"adid\":\"3914\",\"count\":7},{\"adid\":\"2586\",\"count\":15},{\"adid\":\"4323\",\"count\":2},{\"adid\":\"3851\",\"count\":3},{\"adid\":\"3775\",\"count\":20},{\"adid\":\"3657\",\"count\":1},{\"adid\":\"3976\",\"count\":3},{\"adid\":\"3779\",\"count\":10},{\"adid\":\"3934\",\"count\":2},{\"adid\":\"4022\",\"count\":10},{\"adid\":\"4066\",\"count\":1},{\"adid\":\"4122\",\"count\":1},{\"adid\":\"3869\",\"count\":1},{\"adid\":\"3968\",\"count\":1},{\"adid\":\"3706\",\"count\":2},{\"adid\":\"3468\",\"count\":14},{\"adid\":\"3544\",\"count\":5},{\"adid\":\"3564\",\"count\":11},{\"adid\":\"3685\",\"count\":2},{\"adid\":\"4414\",\"count\":2},{\"adid\":\"3922\",\"count\":3}]","adAreaType":"[{\"adid\":\"2586\",\"count\":2},{\"adid\":\"3564\",\"count\":2}]","sign":"421384ce629e257f9782d4ff46ed8393"}
+responseCode = 0
+result = HostException
+costTime = 5ms
+10-29 17:45:39.161 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.161 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.162 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.162 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.smallyy.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306739079,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1386","adType":7,"adID":"996","sourceID":"33844","platform":"topon","type":8,"requestID":"bc4aa7f8-91cb-49c4-b74d-8d8f38b27a87","materialId":"","network":"","isBrush":0,"fillCostTime":6213,"apiCostTime":1,"sign":"f05b3034f99e3bb530e5ff60b920d65c"}
+responseCode = 0
+result = HostException
+costTime = 1ms
+10-29 17:45:39.202 /D/okt_sdk: BaseMainAd @@ onLoadDataFinish
+10-29 17:45:39.202 /D/okt_sdk: l1 @@ interval_time 800
+10-29 17:45:39.202 /E/okt_sdk: game over!!!
+10-29 17:45:39.202 /E/okt_sdk: game over!!!
+10-29 17:45:39.203 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.203 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.203 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.203 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.203 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.203 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.203 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.smallyy.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306739180,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1386","adType":7,"adID":"996","sourceID":"33844","platform":"topon","type":0,"requestID":"f7387d53-e0b2-42c7-8689-d3066e056daa","materialId":"","network":"","isBrush":0,"fillCostTime":0,"apiCostTime":0,"sign":"86e5dd591bfca6d09c40fd85721eeae8"}
+responseCode = 0
+result = HostException
+costTime = 0ms
+10-29 17:45:39.203 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.203 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.204 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.smallyy.com/2_12_0/CollectLog
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","model":"POCO\/23122PCD1G","is_wifi":"1","system":"0","sdkVersion":"2.17.0.1","api_url":"https:\/\/sdkapi-ga.biggogo.com\/2_12_0\/ReqSmallFloatAd","platform":"","req_data":"{\"appID\":\"105\",\"deviceID\":\"ffffffff-a12b-96f6-ffff-ffffc1ec9f58\",\"system\":0,\"appName\":\"FordBrowser\",\"appVersionName\":\"3.0.3\",\"currentTime\":1793306739083,\"appPackage\":\"com.ford.fordbrowser\",\"appSHA1\":\"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4\",\"sdkVersion\":\"2.17.0.1\",\"debugFlag\":1,\"phoneLang\":\"pt-\",\"adPlcID\":\"1379\",\"sw\":1220,\"sh\":2712,\"orientation\":1,\"historyMid\":\"[\\\"70805\\\",\\\"70805\\\"]\",\"show_limit\":\"[{\\\"adid\\\":\\\"4074\\\",\\\"count\\\":3},{\\\"adid\\\":\\\"4099\\\",\\\"count\\\":1},{\\\"adid\\\":\\\"4058\\\",\\\"count\\\":1},{\\\"adid\\\":\\\"2892\\\",\\\"count\\\":3},{\\\"adid\\\":\\\"3486\\\",\\\"count\\\":1},{\\\"adid\\\":\\\"4094\\\",\\\"count\\\":1},{\\\"adid\\\":\\\"3814\\\",\\\"count\\\":2},{\\\"adid\\\":\\\"3914\\\",\\\"count\\\":7},{\\\"adid\\\":\\\"2586\\\",\\\"count\\\":15},{\\\"adid\\\":\\\"4323\\\",\\\"count\\\":2},{\\\"adid\\\":\\\"3851\\\",\\\"count\\\":3},{\\\"adid\\\":\\\"3775\\\",\\\"count\\\":20},{\\\"adid\\\":\\\"3657\\\",\\\"count\\\":1},{\\\"adid\\\":\\\"3976\\\",\\\"count\\\":3},{\\\"adid\\\":\\\"3779\\\",\\\"count\\\":10},{\\\"adid\\\":\\\"3934\\\",\\\"count\\\":2},{\\\"adid\\\":\\\"4022\\\",\\\"count\\\":10},{\\\"adid\\\":\\\"4066\\\",\\\"count\\\":1},{\\\"adid\\\":\\\"4122\\\",\\\"count\\\":1},{\\\"adid\\\":\\\"3869\\\",\\\"count\\\":1},{\\\"adid\\\":\\\"3968\\\",\\\"count\\\":1},{\\\"adid\\\":\\\"3706\\\",\\\"count\\\":2},{\\\"adid\\\":\\\"3468\\\",\\\"count\\\":14},{\\\"adid\\\":\\\"3544\\\",\\\"count\\\":5},{\\\"adid\\\":\\\"3564\\\",\\\"count\\\":11},{\\\"adid\\\":\\\"3685\\\",\\\"count\\\":2},{\\\"adid\\\":\\\"4414\\\",\\\"count\\\":2},{\\\"adid\\\":\\\"3922\\\",\\\"count\\\":3}]\",\"adAreaType\":\"[{\\\"adid\\\":\\\"2586\\\",\\\"count\\\":2},{\\\"adid\\\":\\\"3564\\\",\\\"count\\\":2}]\",\"sign\":\"421384ce629e257f9782d4ff46ed8393\"}","response_msg":"","sdk_error":"RmFsaGEgbm8gY2FycmVnYW1lbnRvIGRlIGRhZG9zLCBtc2cgPSDnvZHnu5zplJnor68=","apiCostTime":0,"initCostTime":0,"thirdCode":"0","myCode":"0","sign":"51812536a3369c96232763df30921a0c"}
+responseCode = 0
+result = HostException
+costTime = 0ms
+10-29 17:45:39.204 /E/okt_sdk: game over!!!
+10-29 17:45:39.204 /D/okt_sdk: setAdCostTime
+10-29 17:45:39.204 /D/okt_sdk: float platform = wx, 成功：加载sdk内容耗时 = 110ms
+10-29 17:45:39.204 /D/okt_sdk: float platform = wx , onAdLoaded
+10-29 17:45:39.204 /D/okt_sdk: float 加载广告耗时 = 117ms
+10-29 17:45:39.204 /D/okt_sdk: float platform = wx , onAdShow
+10-29 17:45:39.204 /D/okt_sdk: 强制点击广告 state 0
+10-29 17:45:39.204 /D/okt_sdk: MainPreload @@ preloadService, startPreloadService, period = 300s
+10-29 17:45:39.220 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.220 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.229 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.229 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.230 /D/okt_sdk: MainPreload @@ preloadService, PreloadService has been activated
+10-29 17:45:39.231 /E/okt_sdk: game over!!!
+10-29 17:45:39.233 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.239 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.242 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.243 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.smallyy.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306739200,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1379","adType":27,"adID":"4414","sourceID":"22608","platform":"wx","type":0,"requestID":"94785283-bb6c-40fe-a412-a219d24b110d","materialId":"70805","network":"","isBrush":0,"fillCostTime":0,"apiCostTime":0,"sign":"00eb6e8d9586cfd4092844028aaeb738"}
+responseCode = 0
+result = HostException
+costTime = 2ms
+10-29 17:45:39.243 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:39.244 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.smallyy.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306739198,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1379","adType":27,"adID":"4414","sourceID":"22608","platform":"wx","type":8,"requestID":"94785283-bb6c-40fe-a412-a219d24b110d","materialId":"70805","network":"","isBrush":0,"fillCostTime":110,"apiCostTime":0,"sign":"f6d6a44be22c1feb8e39cfd0411fcf3f"}
+responseCode = 0
+result = HostException
+costTime = 11ms
+10-29 17:45:39.273 /E/okt_sdk: game over!!!
+10-29 17:45:39.273 /E/okt_sdk: game over!!!
+10-29 17:45:40.965 /D/okt_sdk: 激励视频 连接sdk获取数据
+10-29 17:45:40.965 /I/okt_sdk: ac, key=1382, isExpired=true
+10-29 17:45:40.966 /D/okt_sdk: savedDay 356
+10-29 17:45:40.966 /D/okt_sdk: savedDay 356
+10-29 17:45:40.966 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:40.974 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:40.975 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:40.975 /E/okt_sdk: [NetRequest] @@ postData HostException, msg = Unable to resolve host "sdkapi-ga.smallyy.com": No address associated with hostname
+
+10-29 17:45:40.976 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.smallyy.com/2_12_0/ReqRewardAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306740964,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1382","sw":1220,"sh":2712,"orientation":1,"historyMid":"[]","show_limit":"[{\"adid\":\"2589\",\"count\":1},{\"adid\":\"4220\",\"count\":7},{\"adid\":\"4320\",\"count\":1},{\"adid\":\"4233\",\"count\":6},{\"adid\":\"4222\",\"count\":1},{\"adid\":\"4224\",\"count\":2},{\"adid\":\"4239\",\"count\":1}]","adAreaType":"[]","sign":"055916c042d7fea3d3e684513b1e5075"}
+responseCode = 0
+result = HostException
+costTime = 0ms
+10-29 17:45:41.060 /E/okt_sdk: game over!!!
+10-29 17:45:41.094 /D/okt_sdk: 激励视频 sdk获取数据失败, msg = Falha no carregamento de dados
+10-29 17:45:41.095 /D/okt_sdk: 激励视频 连接服务器耗时：71ms
+10-29 17:45:41.620 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.smallyy.com/2_12_0/CollectLog
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","model":"POCO\/23122PCD1G","is_wifi":"1","system":"0","sdkVersion":"2.17.0.1","api_url":"https:\/\/sdkapi-ga.smallyy.com\/2_12_0\/ReqRewardAd","platform":"","req_data":"{\"appID\":\"105\",\"deviceID\":\"ffffffff-a12b-96f6-ffff-ffffc1ec9f58\",\"system\":0,\"appName\":\"FordBrowser\",\"appVersionName\":\"3.0.3\",\"currentTime\":1793306740964,\"appPackage\":\"com.ford.fordbrowser\",\"appSHA1\":\"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4\",\"sdkVersion\":\"2.17.0.1\",\"debugFlag\":1,\"phoneLang\":\"pt-\",\"adPlcID\":\"1382\",\"sw\":1220,\"sh\":2712,\"orientation\":1,\"historyMid\":\"[]\",\"show_limit\":\"[{\\\"adid\\\":\\\"2589\\\",\\\"count\\\":1},{\\\"adid\\\":\\\"4220\\\",\\\"count\\\":7},{\\\"adid\\\":\\\"4320\\\",\\\"count\\\":1},{\\\"adid\\\":\\\"4233\\\",\\\"count\\\":6},{\\\"adid\\\":\\\"4222\\\",\\\"count\\\":1},{\\\"adid\\\":\\\"4224\\\",\\\"count\\\":2},{\\\"adid\\\":\\\"4239\\\",\\\"count\\\":1}]\",\"adAreaType\":\"[]\",\"sign\":\"055916c042d7fea3d3e684513b1e5075\"}","response_msg":"","sdk_error":"RmFsaGEgbm8gY2FycmVnYW1lbnRvIGRlIGRhZG9zLCBtc2cgPSDnvZHnu5zplJnor68=","apiCostTime":71,"initCostTime":0,"thirdCode":"0","myCode":"0","sign":"6ba861286d641a5da902d0cb73f60d4c"}
+responseCode = 200
+result = {"status":1001,"info":"success","data":[],"timestamp":1793306742}
+costTime = 461ms
+10-29 17:45:41.644 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.smallyy.com
+10-29 17:46:05.310 /D/okt_sdk: 插屏 连接sdk获取数据
+10-29 17:46:05.310 /I/okt_sdk: ac, key=1380, isExpired=true
+10-29 17:46:05.310 /D/okt_sdk: savedDay 356
+10-29 17:46:05.311 /D/okt_sdk: savedDay 356
+10-29 17:46:06.220 /D/okt_sdk: LifeListenerFragment onPause
+10-29 17:46:07.198 /D/okt_sdk: LifeListenerFragment onStop
+10-29 17:46:15.436 /E/okt_sdk: [NetRequest] @@ postData error, url = https://sdkapi-ga.smallyy.com/2_12_0/ReqInterstitialAd, msg = failed to connect to sdkapi-ga.smallyy.com/23.251.57.17 (port 443) from /192.0.0.2 (port 47742) after 5000ms
+10-29 17:46:29.317 /E/okt_sdk: [NetRequest] @@ postData error, url = https://sdkapi-ga.smallyy.com/2_12_0/ReqInterstitialAd, msg = Read timed out
+10-29 17:46:37.854 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.smallyy.com/2_12_0/ReqInterstitialAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306765310,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1380","sw":1220,"sh":2712,"orientation":1,"historyMid":"[]","show_limit":"[{\"adid\":\"4020\",\"count\":2},{\"adid\":\"4064\",\"count\":2},{\"adid\":\"3651\",\"count\":1},{\"adid\":\"2584\",\"count\":4},{\"adid\":\"3562\",\"count\":2},{\"adid\":\"3484\",\"count\":1},{\"adid\":\"2890\",\"count\":1},{\"adid\":\"3704\",\"count\":3},{\"adid\":\"3466\",\"count\":3},{\"adid\":\"3542\",\"count\":3},{\"adid\":\"3773\",\"count\":4},{\"adid\":\"3655\",\"count\":1},{\"adid\":\"3974\",\"count\":1},{\"adid\":\"3777\",\"count\":1},{\"adid\":\"3912\",\"count\":4}]","adAreaType":"[{\"adid\":\"3683\",\"count\":1},{\"adid\":\"3466\",\"count\":1},{\"adid\":\"3542\",\"count\":1},{\"adid\":\"2584\",\"count\":1},{\"adid\":\"3773\",\"count\":1},{\"adid\":\"2890\",\"count\":1},{\"adid\":\"3912\",\"count\":1}]","sign":"d5acd341c2e1005efb971b09db954965"}
+responseCode = 200
+result = {"status":1001,"info":"","data":{"loadNumber":"1","biddingTime":"10","waterfall":"2","adList":[{"adID":"995","platform":"topon","sourceID":"33850","thirdAppID":"h69f1c080de116","thirdPosID":"n69f1c0bdb85a2","thirdUnitID":"","thirdAppKey":"ed8ea7466856e316f585b4a6658c2e34","gWidth":"640","gHeight":"1136","webPrice":"2.00000000"},{"sourceID":"22609","adID":"4554","logoUrl":"","name":"yu7777","summary":"Gire, brinque e aproveite a emo\u00e7\u00e3o!","package":"","type":"2","imgUrl":"","videoUrl":"https:\/\/cdn-america6.ibkckks.com\/material\/76925\/2\/76925_1_1793237294.mp4","m3u8Url":"https:\/\/cdn-america6.ibkckks.com\/material\/76925\/2\/76925_1_1793237294.m3u8","videoWidth":320,"videoHeight":568,"clickUrl":"https:\/\/v7k2mx.com?ch=67281","webUrl":"https:\/\/v7k2mx.com?ch=67281","countDownTime":3,"platform":"wx","adAreaType":"1","materialId":73763,"forceClick":0,"fcDelayTime":0,"playable":"0","playable_url":"","webPrice":"0.00000000"}],"bottomAdList":[]},"timestamp":1793306796}
+costTime = 8537ms
+10-29 17:46:37.855 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.smallyy.com
+10-29 17:46:37.855 /D/okt_sdk: FloorSize = 2, SliceSize = 2
+10-29 17:46:37.855 /D/okt_sdk: 插屏 连接服务器耗时：32545ms
+10-29 17:46:37.855 /D/okt_sdk: 开始加载广告
+10-29 17:46:37.856 /D/okt_sdk: 插屏 连接sdk获取数据
+10-29 17:46:37.856 /D/okt_sdk: 插屏 连接服务器耗时 = 0ms
+10-29 17:46:37.856 /D/okt_sdk: 插屏 连接sdk获取数据
+10-29 17:46:37.857 /D/okt_sdk: 插屏 连接服务器耗时 = 0ms
+10-29 17:46:37.857 /I/okt_sdk: [BaseSliceLoader] @@ bid, isUseClientBid = true, realBidTime = 10
+10-29 17:46:37.857 /I/okt_sdk: [BaseSliceLoader] @@ setBidCountDown, time = 10
+10-29 17:46:37.857 /I/okt_sdk: [BaseSliceLoader] @@ createAdLoader4Backstop, size = 0
+10-29 17:46:37.857 /I/okt_sdk: ac, put 1380
+10-29 17:46:37.861 /D/okt_sdk: 插屏 platform = topon , 开始加载广告
+10-29 17:46:37.865 /D/okt_sdk: BaseMainAd @@ checkClickUrl 备用地址为空 不进行检测！
+10-29 17:46:37.866 /D/okt_sdk: BaseMainAd @@ onCheckUrlFinish
+10-29 17:46:37.866 /I/okt_sdk: [BaseMainAd] @@ setRevenue 插屏, platform = topon, revenue = 2.0
+10-29 17:46:37.866 /I/okt_sdk: initTopOn: start
+10-29 17:46:37.866 /I/okt_sdk: TopOn has init success
+10-29 17:46:37.877 /D/okt_sdk: addHistoryID adPlcID = 1380, materialId = 73763
+10-29 17:46:37.878 /D/okt_sdk: historyMidHashMap [{1379=70805}, {1379=70805}, {1379=70805}, {1380=73763}]
+10-29 17:46:37.878 /I/okt_sdk: addAdShowCountData
+10-29 17:46:37.878 /D/okt_sdk: savedDay 356
+10-29 17:46:37.878 /D/okt_sdk: Constant.adShowCountMap {插屏=[2584, 2584, 2584, 2584, 3912, 3912, 3912, 3912, 3484, 3562, 3562, 4020, 4020, 4064, 4064, 3651, 3773, 3773, 3773, 3773, 3655, 3974, 3777, 2890, 3466, 3466, 3466, 3542, 3542, 3542, 3704, 3704, 3704, 4554], 激励视频=[4320, 2589, 4233, 4233, 4233, 4233, 4233, 4233, 4239, 4224, 4224, 4222, 4220, 4220, 4220, 4220, 4220, 4220, 4220], banner=[3913, 3913, 3913, 3913, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 2585, 4121, 4121, 3868, 3868, 3868, 3705, 2891, 2891, 2891, 3467, 3467, 3467, 3467, 3467, 3467, 3543, 3543, 3543, 3543, 3543, 3543, 3543, 3543, 4073, 3778, 3778, 3778, 3778, 3778, 3778, 3813, 3652, 3652, 3652, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3774, 3975, 4021, 4021, 4021, 4021, 4021, 4021, 4021, 4065, 4065, 4065, 4065, 3967, 3485, 3485, 3684, 3684, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 3563, 4057], float=[3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3775, 3851, 3851, 3851, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3779, 3657, 3976, 3976, 3976, 3814, 3814, 3934, 3934, 4074, 4074, 4074, 3544, 3544, 3544, 3544, 3544, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 3468, 2892, 2892, 2892, 3706, 3706, 3869, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 2586, 4323, 4323, 4122, 3914, 3914, 3914, 3914, 3914, 3914, 3914, 4099, 4094, 4058, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3564, 3685, 3685, 3486, 3922, 3922, 3922, 3968, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4022, 4066, 4414, 4414, 4414]}
+10-29 17:46:37.878 /D/okt_sdk: 插屏 platform = wx , 开始加载广告
+10-29 17:46:37.880 /D/okt_sdk: isGpDetailsPage url = https://v7k2mx.com?ch=67281
+10-29 17:46:37.880 /D/okt_sdk: BaseMainAd @@ checkClickUrl 地址非谷歌商店详情页 不进行检测！
+10-29 17:46:37.881 /D/okt_sdk: BaseMainAd @@ onCheckUrlFinish
+10-29 17:46:37.892 /D/okt_sdk: addPlayLoadTask 
+10-29 17:46:37.895 /I/okt_sdk: [MainPreload] @@ 预加载开始：76925_1_1793237294.mp4
+10-29 17:46:37.897 /I/okt_sdk: [MainPreload] @@ url http://127.0.0.1:42211/https%3A%2F%2Fcdn-america6.ibkckks.com%2Fmaterial%2F76925%2F2%2F76925_1_1793237294.mp4
+10-29 17:46:40.611 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.smallyy.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306797862,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1380","adType":6,"adID":"995","sourceID":"33850","platform":"topon","type":9,"requestID":"1c8cbb2a-1754-470c-b63b-70183b97a1e1","materialId":"","network":"","isBrush":0,"fillCostTime":0,"apiCostTime":32545,"sign":"284f706b8c18bb48946aac1f3c1f84c3"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306798}
+costTime = 2746ms
+10-29 17:46:40.612 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.smallyy.com
+10-29 17:46:44.932 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.smallyy.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306797878,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1380","adType":6,"adID":"4554","sourceID":"22609","platform":"wx","type":9,"requestID":"5c6cd3b3-0e71-4f30-80db-6fafef5d265e","materialId":"73763","network":"","isBrush":0,"fillCostTime":0,"apiCostTime":32545,"sign":"41a4676e0c312b314cf6f8ce15fcbd1a"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306804}
+costTime = 7048ms
+10-29 17:46:44.933 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.smallyy.com
+10-29 17:46:47.899 /I/okt_sdk: [BaseSliceLoader] @@ ad cache is null
+10-29 17:46:47.899 /I/okt_sdk: [BaseSliceLoader] @@ is read cache list, state = true
+10-29 17:46:47.900 /I/okt_sdk: [BaseSliceLoader] @@ set backstopCacheData
+10-29 17:46:47.901 /D/okt_sdk: 插屏 加载sdk内容耗时：10044ms
+10-29 17:46:47.902 /D/okt_sdk: 插屏 onAdFail, code = 20001, msg = load bidding ad time out!
+10-29 17:46:47.906 /E/okt_sdk: [MainPreload] @@ 预加载超时：76925_1_1793237294.mp4
+10-29 17:46:47.907 /I/okt_sdk: [MainPreload] @@ 预加载重试，76925_1_1793237294.mp4
+10-29 17:46:47.911 /I/okt_sdk: [MainPreload] @@ 预加载开始：76925_1_1793237294.mp4
+10-29 17:46:47.919 /I/okt_sdk: [MainPreload] @@ url http://127.0.0.1:42211/https%3A%2F%2Fcdn-america6.ibkckks.com%2Fmaterial%2F76925%2F2%2F76925_1_1793237294.mp4
+10-29 17:47:04.882 /E/okt_sdk: [MainPreload] @@ 预加载超时：76925_1_1793237294.mp4
+10-29 17:47:04.883 /I/okt_sdk: [MainPreload] @@ 预加载重试，76925_1_1793237294.mp4
+10-29 17:47:04.884 /I/okt_sdk: [MainPreload] @@ 预加载开始：76925_1_1793237294.mp4
+10-29 17:47:04.884 /I/okt_sdk: [MainPreload] @@ url http://127.0.0.1:42211/https%3A%2F%2Fcdn-america6.ibkckks.com%2Fmaterial%2F76925%2F2%2F76925_1_1793237294.mp4
+10-29 17:47:07.162 /D/okt_sdk: MainPreload @@ preloadService, onDestroy
+10-29 17:47:07.697 /D/okt_sdk: setAdCostTime
+10-29 17:47:07.698 /D/okt_sdk: 插屏 platform = topon , onAdLoaded
+10-29 17:47:07.719 /D/okt_sdk: 插屏 platform = topon, 成功：加载sdk内容耗时 = 29836ms
+10-29 17:47:07.720 /D/okt_sdk: 插屏 加载广告耗时 = 29856ms
+10-29 17:47:07.836 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:47:07.837 /I/okt_sdk: [BaseAdCache] @@ 缓存排序, adType=插屏, adPlcID=interstitial, index=0, revenue=2.0, platform=topon 189981391
+10-29 17:47:07.837 /I/okt_sdk: [BaseAdCache] @@ ========================
+10-29 17:47:07.838 /I/okt_sdk: [BaseSliceLoader] @@ bid finish has callback
+10-29 17:47:09.172 /I/okt_sdk: [NetRequest] @@ url = https://sdkapi-ga.smallyy.com/2_12_0/StatAd
+params = {"appID":"105","deviceID":"ffffffff-a12b-96f6-ffff-ffffc1ec9f58","system":0,"appName":"FordBrowser","appVersionName":"3.0.3","currentTime":1793306827701,"appPackage":"com.ford.fordbrowser","appSHA1":"99:8C:3A:C1:C2:3C:8B:8F:32:45:64:C8:67:53:54:AC:97:7B:B9:B4","sdkVersion":"2.17.0.1","debugFlag":1,"phoneLang":"pt-","adPlcID":"1380","adType":6,"adID":"995","sourceID":"33850","platform":"topon","type":8,"requestID":"1c8cbb2a-1754-470c-b63b-70183b97a1e1","materialId":"","network":"","isBrush":0,"fillCostTime":29836,"apiCostTime":32545,"sign":"4346010209244bf9862212a90c37dfd0"}
+responseCode = 200
+result = {"status":1001,"info":"","data":[],"timestamp":1793306829}
+costTime = 1424ms
+10-29 17:47:09.200 /D/okt_sdk: l1 @@ setNewHost https://sdkapi-ga.smallyy.com
+10-29 17:47:11.262 /I/okt_sdk: [MainPreload] @@ 预加载取消：76925_1_1793237294.mp4 读取数据：196607 Byte
+10-29 17:47:11.262 /I/okt_sdk: [MainPreload] @@ 预加载成功：76925_1_1793237294.mp4 读取数据：196607 Byte
+10-29 17:47:11.268 /I/okt_sdk: [MainPreload] @@ 预加载结束: 76925_1_1793237294.mp4
+10-29 17:47:11.271 /I/okt_sdk: [MainPreload] @@ 预加载结束: 76925_1_1793237294.mp4
+10-29 17:47:11.272 /I/okt_sdk: [MainPreload] @@ 预加载结束: 76925_1_1793237294.mp4
+10-29 17:47:11.279 /I/okt_sdk: [Okt_AdPlayer] @@ init
+10-29 17:47:11.355 /I/okt_sdk: [Okt_AdPlayer] @@ play url = 76925_1_1793237294, isCycle = true
+10-29 17:47:11.355 /D/okt_sdk: getPlayUrl https://cdn-america6.ibkckks.com/material/76925/2/76925_1_1793237294.mp4
+10-29 17:47:11.356 /I/okt_sdk: [MainPreload] @@ 加载RawUrl：https://cdn-america6.ibkckks.com/material/76925/2/76925_1_1793237294.mp4
+10-29 17:47:11.356 /I/okt_sdk: [Okt_AdPlayer] @@ realUrl = https://cdn-america6.ibkckks.com/material/76925/2/76925_1_1793237294.mp4
+10-29 17:47:11.429 /I/okt_sdk: [Okt_AdPlayer] @@ hasVoice
